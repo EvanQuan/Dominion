@@ -8,7 +8,7 @@ There are 10 Eternal Curse cards available.
 
 - The card is put onto your deck no matter whose turn it is when is when
 Eternal Curse is trashed or Exiled.
-- You still trashed or Exiled Eternal Curse, even though you get it back.
+- You still trash or Exile Eternal Curse, even though you get it back.
 
 ## History
 
@@ -16,10 +16,13 @@ Eternal Curse is trashed or Exiled.
 
 ![v0.2][^2]
 
-Stating the card cannot be trashed or Exiled can confuse its interaction with trashers. Can the card not get targeted? Does it get targeted but nothing happens?
+Stating the card cannot be trashed or Exiled can confuse its interaction with
+trashers. Can the card not get targeted? Does it get targeted but nothing
+happens?
 
-This makes the behaviour easier to understand as it can be compared to [Fortress][^3].
-Putting the card onto your deck is also more punishing, as it replaces a future card draw.
+This makes the behaviour easier to understand as it can be compared to
+[Fortress][^3]. Putting the card onto your deck is also more punishing, as it
+replaces a future card draw.
 
 ### v0.1
 
