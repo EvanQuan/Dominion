@@ -4,7 +4,7 @@
 
 ## Strategy
 
-Comparable to [Desperation](^1), but for VP. Initially nets 1VP, but at the
+Comparable to [Desperation][^1], but for VP. Initially nets 1VP, but at the
 cost of a Curse. As this provides no other resource except VP, the main
 case to buy this would be either be in the ultra-late game to squeeze out
 any possible VP where you don't expect to reshuffle your deck, or if you have
