@@ -1,8 +1,8 @@
 # Hand of Midas
 
-![v0.2](/Images/Hand_of_Midas_v0.2.png)
+![v0.2][^2]
 
-[Eternal Curse](/Images/Eternal_Curse_v0.1.png)
+[Eternal Curse][^4]
 
 ## History
 
@@ -20,3 +20,4 @@ Giving normal Curses can be too exploitable with strong trashers like
 [^1]: /Images/Hand_of_Midas_v0.1.png
 [^2]: /Images/Hand_of_Midas_v0.2.png
 [^3]: http://wiki.dominionstrategy.com/index.php/Chapel
+[^4]: /Curse/EternalCurse.md
