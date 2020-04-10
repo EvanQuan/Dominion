@@ -32,7 +32,9 @@ between players. For example:
 - [Masquerade][^1]
 - [Smugglers][^2]
 - [Jester][^3]
-- Gaining cards from the trash.
+- Gaining cards from the trash
+  - [Lurker][^6]
+  - [Graverobber][^7]
 
 ## Additions/Variants
 
@@ -43,6 +45,13 @@ Projects, given to a random player.
 2. That player picks a Landscape card to discard from the pile.
 3. Once every player has had a chance to discard a card, the remaining 2 are
 used by everyone.
+
+### More Shared Piles
+
+Increase the number of share piles above 1.
+
+This should make games more balanced to reduce certain game-breaking interactions
+possible by restricting certain cards like [Fool's Gold][^8], or [Knights][^9].
 
 ## FAQ
 
@@ -59,3 +68,6 @@ has 3 empty piles.
 [^4]: http://wiki.dominionstrategy.com/index.php/Populate
 [^5]: http://wiki.dominionstrategy.com/index.php/Workshop
 [^6]: http://wiki.dominionstrategy.com/index.php/Lurker
+[^7]: http://wiki.dominionstrategy.com/index.php/Graverobber
+[^8]: http://wiki.dominionstrategy.com/index.php/Fool%27s_Gold
+[^9]: http://wiki.dominionstrategy.com/index.php/Knight
