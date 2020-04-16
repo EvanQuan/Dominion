@@ -1,5 +1,5 @@
-# Raiding Party
+# Ransack
 
 ![v0.1][^1]
 
-[^1]: /Images/Raiding_Party_v0.1.png
+[^1]: /Images/Ransack_v0.1.png
