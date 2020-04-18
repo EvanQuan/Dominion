@@ -15,6 +15,7 @@ Kingdom.
 
 ![v0.3][^3]
 
+Returning Curses made no sense with the theme.
 Gaining Victory cards was too powerful.
 
 ### v0.2
