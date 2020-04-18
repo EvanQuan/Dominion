@@ -1,10 +1,17 @@
 # Ambush
 
-![v0.1][^1]
+## History
 
-[^1]: /Images/Ambush_v0.1.png
+### v0.2.0
 
+![v0.2.0][^v0.2.0]
 
-## FAQ
+The effect was terrible with 2 players, and still needed +4 players to be
+somewhat playable.
 
-- A player can choose to gain a Spoils if there are no Spoils in the Spoils pile.
+### v0.1.0
+
+![v0.1.0][^v0.1.0]
+
+[^v0.1.0]: /Images/Ambush_v0.1.png
+[^v0.2.0]: /Images/Ambush_v0.2.0.png
