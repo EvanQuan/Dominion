@@ -1,5 +1,14 @@
 # Robbery
 
-![v0.1][^1]
+![v0.1.0][^v0.1.0]
 
-[^1]: /Images/Robbery_v0.1.png
+## History
+
+### Rework
+
+Too swingy, especially with 2 players.
+Too easily punished.
+Reworked to [Highway Robbery][^Highway Robbery].
+
+[^v0.1.0]: /Images/Robbery_v0.1.png
+[^Highway Robbery]: /Event/HighwayRobbery.md
