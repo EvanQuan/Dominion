@@ -1,6 +1,6 @@
 # Desert Journey
 
-![v0.3][^3]
+![v0.3.1][^4]
 
 ## FAQ
 
@@ -8,6 +8,12 @@
 - Works with spent and unused Villagers.
 
 ## History
+
+### v0.3.1
+
+![v0.3.1][^4]
+
+Update phrasing to be more precise.
 
 ### v0.3
 
@@ -28,3 +34,4 @@ Changed so Coffers can be used on the same turn's Buy phase.
 [^1]: /Images/Desert_Journey_v0.1.png
 [^2]: /Images/Desert_Journey_v0.2.png
 [^3]: /Images/Desert_Journey_v0.3.png
+[^4]: /Images/Desert_Journey_v0.3.1.png
