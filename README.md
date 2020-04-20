@@ -49,7 +49,7 @@
 [![Highway Robbery](/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
 [![Improve Morale](/Images/Improve_Morale_v0.1.png)](/Event/ImproveMorale.md)
 [![Maelstrom](/Images/Maelstrom_v0.1.0.png)](/Event/Maelstrom.md)
-[![Masquerade Ball](/Images/Masquerade_Ball_v0.2.png)](/Event/MasqueradeBall.md)
+[![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Images/Meld_v0.1.png)](/Event/Meld.md)
 [![Perilous Journey](/Images/Perilous_Journey_v0.1.png)](/Event/Perilous_Journey.md)
 [![Pirate's Curse](/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
