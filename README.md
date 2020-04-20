@@ -42,7 +42,7 @@
 [![Dark Carnival](/Images/Dark_Carnival_v0.1.png)](/Event/DarkCarnival.md)
 [![Debt Collection](/Images/Debt_Collection_v0.2.png)](/Event/DebtCollection.md)
 [![Excavate](/Images/Excavate_v0.1.png)](/Event/Excavate.md)
-[![Funeral Pyre](/Images/Funeral_Pyre_v0.1.png)](/Event/FuneralPyre.md)
+[![Funeral Pyre](/Images/Funeral_Pyre_v0.2.0.png)](/Event/FuneralPyre.md)
 [![Grave Robbery](/Images/Grave_Robbery_v0.1.png)](/Event/GraveRobbery.md)
 [![Heist](/Images/Heist_v0.2.0.png)](/Event/Heist.md)
 [![Hiding the Loot](/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
