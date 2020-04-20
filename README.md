@@ -54,7 +54,6 @@
 [![Perilous Journey](/Images/Perilous_Journey_v0.1.png)](/Event/Perilous_Journey.md)
 [![Pirate's Curse](/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
 [![Ransack](/Images/Ransack_v0.1.png)](/Event/Ransack.md)
-[![Reinforce](/Images/Reinforce_v0.2.png)](/Event/Reinforce.md)
 [![Robbery](/Images/Robbery_v0.1.png)](/Event/Robbery.md)
 [![Sacrifice](/Images/Sacrifice_v0.2.png)](/Event/Sacrifice.md)
 [![Shady Deal](/Images/Shady_Deal_v0.1.1.png)](/Event/ShadyDeal.md)
