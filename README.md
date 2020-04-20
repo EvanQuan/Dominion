@@ -44,7 +44,7 @@
 [![Excavate](/Images/Excavate_v0.1.png)](/Event/Excavate.md)
 [![Funeral Pyre](/Images/Funeral_Pyre_v0.1.png)](/Event/FuneralPyre.md)
 [![Grave Robbery](/Images/Grave_Robbery_v0.1.png)](/Event/GraveRobbery.md)
-[![Heist](/Images/Heist_v0.1.0.png)](/Event/Heist.md)
+[![Heist](/Images/Heist_v0.2.0.png)](/Event/Heist.md)
 [![Hiding the Loot](/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
 [![Highway Robbery](/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
 [![Improve Morale](/Images/Improve_Morale_v0.1.png)](/Event/ImproveMorale.md)
