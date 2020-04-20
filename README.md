@@ -47,7 +47,7 @@
 [![Heist](/Images/Heist_v0.2.0.png)](/Event/Heist.md)
 [![Hiding the Loot](/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
 [![Highway Robbery](/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
-[![Improve Morale](/Images/Improve_Morale_v0.1.png)](/Event/ImproveMorale.md)
+[![Inspire Morale](/Images/Inspire_Morale_v0.1.0.png)](/Event/InspireMorale.md)
 [![Maelstrom](/Images/Maelstrom_v0.1.0.png)](/Event/Maelstrom.md)
 [![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Images/Meld_v0.1.png)](/Event/Meld.md)
