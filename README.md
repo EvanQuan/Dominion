@@ -115,6 +115,7 @@
 <summary>Treasures</summary>
 
 [![Buried Treasure](/Images/Buried_Treasure_v0.1.png)](/Treasure/BuriedTreasure.md)
+[![Dragon's Hoard](/Images/Dragon's_Hoard_v0.2.0.png)](/Treasure/DragonsHoard.md)
 [![Foreign Currency](/Images/Foreign_Currency_v0.1.png)](/Treasure/ForeignCurrency.md)
 [![Pirate's Curse](/Images/Pirate's_Curse_v0.2.png)](/Treasure/PiratesCurse.md)
 [![Stolen Jewels](/Images/Stolen_Jewels_v0.3.png)](/Treasure/StolenJewels.md)
