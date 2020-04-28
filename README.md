@@ -143,3 +143,5 @@
 ## Game Modes
 
 [Shared Draft](/GameModes/SharedDraft.md)
+
+[Draft Ban](/GameModes/DraftBan.md)
