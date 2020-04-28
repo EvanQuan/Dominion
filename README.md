@@ -85,6 +85,13 @@
 </details>
 
 <details>
+<summary>Laws</summary>
+
+[![Trade Sanctions](/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
+
+</details>
+
+<details>
 <summary>Projects</summary>
 
 [![Ancient Worship](/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
