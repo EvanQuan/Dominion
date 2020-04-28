@@ -111,7 +111,7 @@
 [![ShoppingSpree](/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
 [![Take Hostages](/Images/Take_Hostages_v0.1.1.png)](/Quest/TakeHostages.md)
 [![Usurp the Duke](/Images/Usurp_the_Duke_v0.3.0.png)](/Quest/UsurpTheDuke.md)
-[![WinterHunt](/Images/Winter_Hunt_v0.3.0.png)](/Quest/WinterHunt.md)
+[![WinterHunt](/Images/Winter_Hunt_v0.4.0.png)](/Quest/WinterHunt.md)
 
 </details>
 
