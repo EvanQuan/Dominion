@@ -87,6 +87,7 @@
 <details>
 <summary>Laws</summary>
 
+[![Restoration](/Images/Restoration_v0.1.0.png)](/Law/Restoration.md)
 [![Trade Sanctions](/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
 
 </details>
