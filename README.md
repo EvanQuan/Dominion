@@ -102,7 +102,7 @@
 [![Demonic Pact](/Images/Demonic_Pact_v0.4.0.png)](/Quest/DemonicPact.md)
 [![Desert Journey](/Images/Desert_Journey_v0.3.3.png)](/Quest/DesertJourney.md)
 [![Expand Territory](/Images/Expand_Territory_v0.1.2.png)](/Quest/ExpandTerritory.md)
-[![Hire a Local](/Images/Hire_a_Local_v0.1.2.png)](/Quest/HireALocal.md)
+[![Hire a Local](/Images/Hire_a_Local_v0.2.0.png)](/Quest/HireALocal.md)
 [![Hunt for Bounty](/Images/Hunt_for_Bounty_v0.3.0.png)](/Quest/HuntForBounty.md)
 [![Isolated Retreat](/Images/Isolated_Retreat_v0.1.0.png)](/Quest/IsolatedRetreat.md)
 [![ShoppingSpree](/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
