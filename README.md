@@ -50,7 +50,7 @@
 [![Highway Robbery](/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
 [![Inspire Morale](/Images/Inspire_Morale_v0.1.0.png)](/Event/InspireMorale.md)
 [![Invade](/Images/Invade_v0.1.0.png)](/Event/Invade.md)
-[![Joust](/Images/Joust_v0.1.0.png)](/Event/Joust.md)
+[![Joust](/Images/Joust_v0.2.0.png)](/Event/Joust.md)
 [![Maelstrom](/Images/Maelstrom_v0.1.0.png)](/Event/Maelstrom.md)
 [![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Images/Meld_v0.1.png)](/Event/Meld.md)
