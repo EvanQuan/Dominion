@@ -63,6 +63,7 @@
 [![Sacrifice](/Images/Sacrifice_v0.2.png)](/Event/Sacrifice.md)
 [![Shady Deal](/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
 [![Siege](/Images/Siege_v0.2.png)](/Event/Siege.md)
+[![Smuggling Ring](/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
 [![Stiff Loan](/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
 [![Tarot Reading](/Images/Tarot_Reading_v0.2.png)](/Event/TarotReading.md)
 [![Unearthed Riches](/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
@@ -103,7 +104,6 @@
 [![Raiding Party](/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
 [![Printing Press](/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
 [![Reinforcements](/Images/Reinforcements_v0.2.png)](/Project/Reinforcements.md)
-[![The Underground](/Images/The_Underground_v0.1.0.png)](/Project/TheUnderground.md)
 [![Town Hall](/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
 
 </details>
