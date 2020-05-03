@@ -98,7 +98,7 @@
 
 [![Ancient Worship](/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
 [![Commerce](/Images/Commerce_v0.1.0.png)](/Project/Commerce.md)
-[![Copppersmith](/Images/Coppersmith_v0.1.0.png)](/Project/Coppersmith.md)
+[![Copppersmith](/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
 [![Mercantilism](/Images/Mercantilism_v0.1.png)](/Project/Mercantilism.md)
 [![Raiding Party](/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
 [![Printing Press](/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
