@@ -6,7 +6,7 @@
 <summary>Actions</summary>
 
 [![Baron](/Images/Baron_v0.1.png)](/Landmark/Baron.md)
-[![ForestPath](/Images/Forest_Path_v0.1.png)](/Landmark/ForestPath.md)
+[![Forest Path](/Images/Forest_Path_v0.1.png)](/Landmark/ForestPath.md)
 
 </details>
 
@@ -127,10 +127,10 @@
 [![Hire a Local](/Images/Hire_a_Local_v0.2.0.png)](/Quest/HireALocal.md)
 [![Hunt for Bounty](/Images/Hunt_for_Bounty_v0.3.0.png)](/Quest/HuntForBounty.md)
 [![Isolated Retreat](/Images/Isolated_Retreat_v0.1.0.png)](/Quest/IsolatedRetreat.md)
-[![ShoppingSpree](/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
+[![Shopping Spree](/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
 [![Take Hostages](/Images/Take_Hostages_v0.1.1.png)](/Quest/TakeHostages.md)
 [![Usurp the Duke](/Images/Usurp_the_Duke_v0.3.0.png)](/Quest/UsurpTheDuke.md)
-[![WinterHunt](/Images/Winter_Hunt_v0.4.0.png)](/Quest/WinterHunt.md)
+[![Winter Hunt](/Images/Winter_Hunt_v0.4.0.png)](/Quest/WinterHunt.md)
 
 </details>
 
