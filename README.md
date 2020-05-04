@@ -135,6 +135,13 @@
 </details>
 
 <details>
+<summary>Threats</summary>
+
+[![Bandits](/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
+
+</details>
+
+<details>
 <summary>Treasures</summary>
 
 [![Buried Treasure](/Images/Buried_Treasure_v0.1.png)](/Treasure/BuriedTreasure.md)
