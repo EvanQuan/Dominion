@@ -77,6 +77,7 @@
 [![Borrow](/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
 [![Confess](/Images/Confess_v0.1.0.png)](/Exchange/Confess.md)
 [![Indentured Servitude](/Images/Indentured_Servitude_v0.1.0.png)](/Exchange/IndenturedServitude.md)
+[![Smuggle](/Images/Smuggle_v0.1.0.png)](/Exchange/Smuggle.md)
 
 </details>
 
