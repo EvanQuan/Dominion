@@ -6,10 +6,10 @@ cost printed on the Action card, you may do what is printed on an Exchange
 being used in that game.
 
 Exchanges are not [Kingdom][^Kingdom] cards, and cannot be bought. Including
-one or more Ways in a game does not count toward the 10 Kingdom card piles
-the [Supply][^Supply] includes. In fact, Exchanges are not considered "cards"
-at all; any text referring to a "card" (such as instructions to "name a
-card") does not apply to Exchanges. However, for references, Exchanges'
+one or more Exchanges in a game does not count toward the 10 Kingdom card
+piles the [Supply][^Supply] includes. In fact, Exchanges are not considered
+"cards" at all; any text referring to a "card" (such as instructions to "name
+a card") does not apply to Exchanges. However, for references, Exchanges'
 effects are printed on cards in a landscape orientation with light green
 frames.
 
