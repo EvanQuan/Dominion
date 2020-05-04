@@ -141,6 +141,7 @@
 [![Dragon](/Images/Dragon_v0.1.0.png)](/Threat/Dragon.md)
 [![Pirates](/Images/Pirates_v0.1.0.png)](/Threat/Pirates.md)
 [![Secret Cult](/Images/Secret_Cult_v0.1.0.png)](/Threat/SecretCult.md)
+[![Spirits](/Images/Spirits_v0.1.0.png)](/Threat/Spirits.md)
 [![Swamp Hag](/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
 
 </details>
