@@ -75,6 +75,7 @@
 <summary>Exchanges</summary>
 
 [![Borrow](/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
+[![Indentured Servitude](/Images/Indentured_Servitude_v0.1.0.png)](/Exchange/IndenturedServitude.md)
 
 </details>
 
