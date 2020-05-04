@@ -140,6 +140,7 @@
 [![Bandits](/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
 [![Dragon](/Images/Dragon_v0.1.0.png)](/Threat/Dragon.md)
 [![Pirates](/Images/Pirates_v0.1.0.png)](/Threat/Pirates.md)
+[![Swamp Hag](/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
 
 </details>
 
