@@ -72,6 +72,13 @@
 </details>
 
 <details>
+<summary>Exchanges</summary>
+
+[![Borrow](/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
+
+</details>
+
+<details>
 <summary>Landmarks</summary>
 
 [![Barren Wasteland](/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
