@@ -1,8 +1,8 @@
 # Quest
 
 Quests are effects that give additional means to gain cards or effects other
-than through the normal use of cards or [Events][^Event]. attached to cards.
-Players can fulfill the requirements of the Quest to receive the rewards.
+than through the normal use of cards or [Events][^Event]. Players can fulfill
+the requirements of the Quest to receive the rewards.
 
 Quests are not Kingdom cards. In fact Quests are not considered "cards" at
 all; any text referring to a "card" (such as instructions to "name a card",
