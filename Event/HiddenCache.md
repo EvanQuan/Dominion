@@ -2,7 +2,7 @@
 
 ![v0.1.0][^v0.1.0]
 
-[Cache][^Cache] buff.
+Cheaper [Cache][^Cache] that allows for better remodelling.
 
 [^v0.1.0]: /Images/Hidden_Cache_v0.1.0.png
 [^Cache]: http://wiki.dominionstrategy.com/index.php/Cache
