@@ -138,6 +138,7 @@
 <summary>Threats</summary>
 
 [![Bandits](/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
+[![Blizzard](/Images/Blizzard_v0.1.0.png)](/Threat/Blizzard.md)
 [![Dragon](/Images/Dragon_v0.1.0.png)](/Threat/Dragon.md)
 [![Pirates](/Images/Pirates_v0.1.0.png)](/Threat/Pirates.md)
 [![Secret Cult](/Images/Secret_Cult_v0.1.0.png)](/Threat/SecretCult.md)
