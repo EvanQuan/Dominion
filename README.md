@@ -60,6 +60,7 @@
 [![Pirate's Curse](/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
 [![Prohibition](/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
 [![Ransack](/Images/Ransack_v0.1.png)](/Event/Ransack.md)
+[![Recruit](/Images/Recruit_v0.1.0.png)](/Event/Recruit.md)
 [![Sacrifice](/Images/Sacrifice_v0.2.png)](/Event/Sacrifice.md)
 [![Shady Deal](/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
 [![Siege](/Images/Siege_v0.1.0.png)](/Event/Siege.md)
