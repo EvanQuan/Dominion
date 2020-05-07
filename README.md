@@ -69,7 +69,7 @@
 [![Stiff Loan](/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
 [![Tarot Reading](/Images/Tarot_Reading_v0.2.png)](/Event/TarotReading.md)
 [![Unearthed Riches](/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
-[![Usurp](/Images/Usurp_v0.1.png)](/Event/Usurp.md)
+[![Usurp the Duke](/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
 
 </details>
 
@@ -131,7 +131,6 @@
 [![Isolated Retreat](/Images/Isolated_Retreat_v0.1.0.png)](/Quest/IsolatedRetreat.md)
 [![Shopping Spree](/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
 [![Take Hostages](/Images/Take_Hostages_v0.1.1.png)](/Quest/TakeHostages.md)
-[![Usurp the Duke](/Images/Usurp_the_Duke_v0.3.0.png)](/Quest/UsurpTheDuke.md)
 [![Winter Hunt](/Images/Winter_Hunt_v0.4.0.png)](/Quest/WinterHunt.md)
 
 </details>
