@@ -91,7 +91,7 @@
 [![Guild Hall](/Images/Guild_Hall_v0.1.png)](/Landmark/GuildHall.md)
 [![Infested Sewers](/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
 [![Jungle Ruins](/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
-[![Rubble](/Images/Rubble_v0.1.png)](/Landmark/Rubble.md)
+[![Rubble](/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
 [![Secluded Temple](/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
 [![Shipwreck](/Images/Shipwreck_v0.1.png)](/Landmark/Shipwreck.md)
 
