@@ -5,8 +5,8 @@
 <details>
 <summary>Actions</summary>
 
-[![Baron](/Images/Baron_v0.1.png)](/Landmark/Baron.md)
-[![Forest Path](/Images/Forest_Path_v0.1.png)](/Landmark/ForestPath.md)
+[![Forest Path](/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
+[![Greedy Baron](/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
 
 </details>
 
