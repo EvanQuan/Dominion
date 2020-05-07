@@ -88,7 +88,7 @@
 [![Barren Wasteland](/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
 [![Cottage](/Images/Cottage_v0.1.png)](/Landmark/Cottage.md)
 [![Crone's Hut](/Images/Crone's_Hut_v0.1.png)](/Landmark/CronesHut.md)
-[![Guild Hall](/Images/Guild_Hall_v0.1.png)](/Landmark/GuildHall.md)
+[![Guild Hall](/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
 [![Infested Sewers](/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
 [![Jungle Ruins](/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
 [![Rubble](/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
