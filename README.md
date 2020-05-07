@@ -93,7 +93,7 @@
 [![Jungle Ruins](/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
 [![Rubble](/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
 [![Secluded Temple](/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
-[![Shipwreck](/Images/Shipwreck_v0.1.png)](/Landmark/Shipwreck.md)
+[![Shipwreck](/Images/Shipwreck_v0.2.0.png)](/Landmark/Shipwreck.md)
 
 </details>
 
