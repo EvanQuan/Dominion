@@ -37,6 +37,7 @@
 
 [![Ambush](/Images/Ambush_v0.2.0.png)](/Event/Ambush.md)
 [![Auction](/Images/Auction_v0.2.png)](/Event/Auction.md)
+[![Bewitch](/Images/Bewitch_v0.1.0.png)](/Event/Bewitch.md)
 [![Blockade](/Images/Blockade_v0.1.png)](/Event/Blockade.md)
 [![Charge](/Images/Charge_v0.1.0.png)](/Event/Charge.md)
 [![Charity](/Images/Charity_v0.2.png)](/Event/Charity.md)
