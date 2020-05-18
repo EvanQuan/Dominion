@@ -9,16 +9,16 @@ piles, giving one pile to each player.
 ## Draft Phase
 
 1. Each player picks one randomizer from their pile and sets it aside (either
-publically or privately, as long as it is consistent amongst all players).
+face-up or face-down, as long as it is consistent amongst all players).
 2. Each player passes their pile to their left.
 3. Repeat until each player has 6 randomizers set aside.
 4. Each player picks a randomizer from a player on their left to move to the
-centre to be shared.
+centre to be shared (the public Supply).
 5. Replace all randomizers with their respective Supply piles.
 
 ## Rules
 
-For each player, "The Supply" is considered the shared Supply piles and their
+For each player, "the Supply" is considered the public Supply piles and their
 own private 5-pile Kingdom, as normal.
 
 This means players can only buy from their own Supply, or choose cards from
@@ -52,6 +52,11 @@ Increase the number of share piles above 1.
 
 This should make games more balanced to reduce certain game-breaking interactions
 possible by restricting certain cards like [Fool's Gold][^8], or [Knights][^9].
+
+### Add a Ban
+
+Each player chooses a pile from the player on their left to ban.
+This pile is removed from the game.
 
 ## FAQ
 
