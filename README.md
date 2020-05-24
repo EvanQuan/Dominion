@@ -60,7 +60,7 @@
 [![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Images/Meld_v0.2.0.png)](/Event/Meld.md)
 [![Peaceful Evening](/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
-[![Perilous Journey](/Images/Perilous_Journey_v0.1.png)](/Event/Perilous_Journey.md)
+[![Perilous Journey](/Images/Perilous_Journey_v0.2.0.png)](/Event/Perilous_Journey.md)
 [![Pirate's Curse](/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
 [![Prohibition](/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
 [![Ransack](/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
