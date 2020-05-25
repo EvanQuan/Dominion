@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Randomly pick [Player Count * 6] Kingdom randomizers.
+1. Randomly pick [Player Count * 7] Kingdom randomizers.
 2. Randomly divide the select randomizers into [Player Count] number of
 piles, giving one pile to each player.
 
@@ -11,7 +11,7 @@ piles, giving one pile to each player.
 1. Each player picks one randomizer from their pile and sets it aside (either
 face-up or face-down, as long as it is consistent amongst all players).
 2. Each player passes their pile to their left.
-3. Repeat until each player has 6 randomizers set aside.
+3. Repeat until each player has 7 randomizers set aside.
 4. Each player picks a randomizer from a player on their left to move to the
 centre to be shared (the public Supply).
 5. Replace all randomizers with their respective Supply piles.
@@ -19,11 +19,16 @@ centre to be shared (the public Supply).
 ## Rules
 
 For each player, "the Supply" is considered the public Supply piles and their
-own private 5-pile Kingdom, as normal.
+own private Kingdom, as normal.
 
 This means players can only buy from their own Supply, or choose cards from
 it when using gainers both targeted (ex. [Workshop][^5]) or general
 (ex. [Populate][^4]) or targeted Supply trashers (ex. [Lurker][^6]).
+
+For three-pile endings, three Supply piles need to be emptied from any
+players' Supply. For example, 1 empty shared pile, and 2 private piles from a
+single player would count, and empty piles from other players would not count
+as they are not considered as part of "the Supply" for that given player.
 
 However, players can indirectly acquire cards from other players' private
 Supply piles with cards that directly refer to other cards, or move cards
