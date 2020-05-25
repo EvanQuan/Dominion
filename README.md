@@ -57,6 +57,7 @@
 [![Joust](/Images/Joust_v0.2.0.png)](/Event/Joust.md)
 [![Lone Knight](/Images/Lone_Knight_v0.1.0.png)](/Event/LoneKnight.md)
 [![Maelstrom](/Images/Maelstrom_v0.2.0.png)](/Event/Maelstrom.md)
+[![Maraud](/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
 [![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Images/Meld_v0.2.0.png)](/Event/Meld.md)
 [![Peaceful Evening](/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
