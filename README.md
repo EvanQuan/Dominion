@@ -7,6 +7,7 @@
 
 [![Forest Path](/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
 [![Greedy Baron](/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
+[![Longbowmen](/Images/Longbowmen_v0.1.0.png)](/Action/Longbowmen.md)
 
 </details>
 
