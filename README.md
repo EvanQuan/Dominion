@@ -71,7 +71,7 @@
 [![Siege](/Images/Siege_v0.2.0.png)](/Event/Siege.md)
 [![Smuggling Ring](/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
 [![Stiff Loan](/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
-[![Tarot Reading](/Images/Tarot_Reading_v0.2.png)](/Event/TarotReading.md)
+[![Tarot Reading](/Images/Tarot_Reading_v0.3.0.png)](/Event/TarotReading.md)
 [![Trek](/Images/Trek_v0.1.0.png)](/Event/Trek.md)
 [![Unearthed Riches](/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
 [![Usurp the Duke](/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
