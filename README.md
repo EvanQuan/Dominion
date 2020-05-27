@@ -122,6 +122,7 @@
 [![Marketplace](/Images/Marketplace_v0.2.0.png)](/Project/Marketplace.md)
 [![Mercantilism](/Images/Mercantilism_v0.3.0.png)](/Project/Mercantilism.md)
 [![Raiding Party](/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
+[![Placer Mines](/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
 [![Printing Press](/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
 [![Reinforcements](/Images/Reinforcements_v0.2.png)](/Project/Reinforcements.md)
 [![Theocracy](/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
