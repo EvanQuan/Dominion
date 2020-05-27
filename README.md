@@ -41,7 +41,7 @@
 [![Bewitch](/Images/Bewitch_v0.1.0.png)](/Event/Bewitch.md)
 [![Blockade](/Images/Blockade_v0.1.png)](/Event/Blockade.md)
 [![Charge](/Images/Charge_v0.2.0.png)](/Event/Charge.md)
-[![Charity](/Images/Charity_v0.2.png)](/Event/Charity.md)
+[![Charity](/Images/Charity_v0.3.0.png)](/Event/Charity.md)
 [![Dark Carnival](/Images/Dark_Carnival_v0.1.png)](/Event/DarkCarnival.md)
 [![Debt Collection](/Images/Debt_Collection_v0.2.png)](/Event/DebtCollection.md)
 [![Evening Feast](/Images/Evening_Feast_v0.1.0.png)](/Event/EveningFeast.md)
