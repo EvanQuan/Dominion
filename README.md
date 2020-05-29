@@ -174,9 +174,9 @@
 <details>
 <summary>Victory</summary>
 
-[![Swamp](/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
-[![Rice Field](/Images/Rice_Field_v0.2.png)](/Victory/RiceField.md)
-[![Plains](/Images/Plains_v0.1.png)](/Victory/Plains.md)
+[![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
+[![Rice Field](/Victory/Images/Rice_Field_v0.2.png)](/Victory/RiceField.md)
+[![Plains](/Victory/Images/Plains_v0.1.png)](/Victory/Plains.md)
 
 </details>
 
