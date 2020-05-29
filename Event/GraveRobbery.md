@@ -25,8 +25,8 @@ case for cost reducers.
 
 ![v0.1.0](/Images/Grave_Robbery_v0.1.png)
 
-[^v0.1.0]: /Images/Grave_Robbery_v0.1.png
-[^v0.1.1]: /Images/Grave_Robbery_v0.1.1.png
-[^v0.2.0]: /Images/Grave_Robbery_v0.2.0.png
+[^v0.1.0]: /Event/Images/Grave_Robbery_v0.1.png
+[^v0.1.1]: /Event/Images/Grave_Robbery_v0.1.1.png
+[^v0.2.0]: /Event/Images/Grave_Robbery_v0.2.0.png
 [^Lurker]: http://wiki.dominionstrategy.com/index.php/Lurker
 [^Bandit]: http://wiki.dominionstrategy.com/index.php/Bandit

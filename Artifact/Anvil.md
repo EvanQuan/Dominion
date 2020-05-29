@@ -11,6 +11,6 @@ pays for itself upon a single upon.
 
 ### v0.1
 
-![v0.1](/Images/Anvil_v0.1.png)
+![v0.1](/Artifact/Images/Anvil_v0.1.png)
 
 [^3]: http://wiki.dominionstrategy.com/index.php/Remodel

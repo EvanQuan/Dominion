@@ -4,5 +4,5 @@
 
 Event version of [Embargo][^Embargo].
 
-[^v0.1.0]: /Images/Prohibition_v0.1.0.png
+[^v0.1.0]: /Event/Images/Prohibition_v0.1.0.png
 [^Embargo]: http://wiki.dominionstrategy.com/index.php/Embargo

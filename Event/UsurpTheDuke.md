@@ -30,8 +30,8 @@ More flexible, while still constraining it to your own Dutchies.
 
 ![Quest v0.1.0][^Quest v0.1.0]
 
-[^v0.1.0]: /Images/Usurp_the_Duke_v0.1.0.png
-[^Quest v0.1.0]: /Images/Usurp_the_Duke_v0.1.png
-[^Quest v0.2.0]: /Images/Usurp_the_Duke_v0.2.0.png
-[^Quest v0.3.0]: /Images/Usurp_the_Duke_v0.3.0.png
+[^v0.1.0]: /Event/Images/Usurp_the_Duke_v0.1.0.png
+[^Quest v0.1.0]: /Quest/Images/Usurp_the_Duke_v0.1.png
+[^Quest v0.2.0]: /Quest/Images/Usurp_the_Duke_v0.2.0.png
+[^Quest v0.3.0]: /Quest/Images/Usurp_the_Duke_v0.3.0.png
 [^Rebuild]: http://wiki.dominionstrategy.com/index.php/Rebuild

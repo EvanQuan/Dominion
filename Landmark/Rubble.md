@@ -25,5 +25,5 @@ your deck or discard piles. If looking into your deck, shuffle it afterwards.
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.1]: /Images/Rubble_v0.1.1.png
-[^v0.1.0]: /Images/Rubble_v0.1.png
+[^v0.1.1]: /Landmark/Images/Rubble_v0.1.1.png
+[^v0.1.0]: /Landmark/Images/Rubble_v0.1.png

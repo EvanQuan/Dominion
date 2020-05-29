@@ -14,5 +14,5 @@ Renamed.
 
 ![King of the Rats][^KingOfTheRats]
 
-[^v0.1.0]: /Images/Infested_Sewers_v0.1.0.png
-[^KingOfTheRats]: /Images/King_of_the_Rats_v0.1.png
+[^v0.1.0]: /Landmark/Images/Infested_Sewers_v0.1.0.png
+[^KingOfTheRats]: /Landmark/Images/King_of_the_Rats_v0.1.png

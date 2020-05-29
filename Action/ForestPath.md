@@ -2,4 +2,4 @@
 
 ![v0.1][^1]
 
-[^1]: /Images/Forest_Path_v0.1.png
+[^1]: /Action/Images/Forest_Path_v0.1.png

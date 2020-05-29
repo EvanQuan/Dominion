@@ -11,5 +11,5 @@ Duchy.
 - The Ruins added the Victory Supply pile do not count towards the Ruins
 count in the Ruins Supply pile, if there are any.
 
-[^v0.1.0]: /Images/Jungle_Ruins_v0.1.0.png
+[^v0.1.0]: /Landmark/Images/Jungle_Ruins_v0.1.0.png
 [^Count]: http://wiki.dominionstrategy.com/index.php/Count

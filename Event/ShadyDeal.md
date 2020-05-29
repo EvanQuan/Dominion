@@ -22,7 +22,7 @@ flexible.
 
 ![v0.1][^v0.1.0]
 
-[^v0.1.0]: /Images/Shady_Deal_v0.1.png
-[^v0.1.1]: /Images/Shady_Deal_v0.1.1.png
-[^v0.2.0]: /Images/Shady_Deal_v0.2.0.png
+[^v0.1.0]: /Event/Images/Shady_Deal_v0.1.png
+[^v0.1.1]: /Event/Images/Shady_Deal_v0.1.1.png
+[^v0.2.0]: /Event/Images/Shady_Deal_v0.2.0.png
 [^Overlord]: http://wiki.dominionstrategy.com/index.php/Overlord

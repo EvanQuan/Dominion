@@ -36,7 +36,7 @@ By limiting Auction buys to one a turn, if the buying player fails to win the Au
 
 ![v0.1][^1]
 
-[^1]: /Images/Auction_v0.1.png
-[^2]: /Images/Auction_v0.2.png
+[^1]: /Event/Images/Auction_v0.1.png
+[^2]: /Event/Images/Auction_v0.2.png
 [^3]: http://wiki.dominionstrategy.com/index.php/Black_Market
 [^4]: http://wiki.dominionstrategy.com/index.php/Mountain_Pass

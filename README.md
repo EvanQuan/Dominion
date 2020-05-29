@@ -5,130 +5,130 @@
 <details>
 <summary>Actions</summary>
 
-[![Forest Path](/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
-[![Greedy Baron](/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
-[![Longbowman](/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
+[![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
+[![Greedy Baron](/Action/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
+[![Longbowman](/Action/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
 
 </details>
 
 <details>
 <summary>Artifacts</summary>
 
-[![Anvil](/Images/Anvil_v0.2.png)](/Artifact/Anvil.md)
-[![Crystal Ball](/Images/Crystal_Ball_v0.1.png)](/Artifact/CrystalBall.md)
-[![Hand of Midas](/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
-[![Jousting Lance](/Images/Jousting_Lance_v0.1.png)](/Artifact/JoustingLance.md)
-[![Mask](/Images/Mask_v0.1.png)](/Artifact/Mask.md)
-[![Sextant](/Images/Sextant_v0.1.png)](/Artifact/Sextant.md)
+[![Anvil](/Artifact/Images/Anvil_v0.2.png)](/Artifact/Anvil.md)
+[![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.1.png)](/Artifact/CrystalBall.md)
+[![Hand of Midas](/Artifact/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
+[![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.png)](/Artifact/JoustingLance.md)
+[![Mask](/Artifact/Images/Mask_v0.1.png)](/Artifact/Mask.md)
+[![Sextant](/Artifact/Images/Sextant_v0.1.png)](/Artifact/Sextant.md)
 
 </details>
 
 <details>
 <summary>Curses</summary>
 
-[![Brain Sap](/Images/Brain_Sap_v0.1.png)](/Artifact/BrainSap.md)
-[![Decay](/Images/Decay_v0.1.png)](/Artifact/Decay.md)
-[![Eternal Curse](/Images/Eternal_Curse_v0.2.png)](/Artifact/EternalCurse.md)
-[![Impending Doom](/Images/Impending_Doom_v0.1.png)](/Artifact/ImpendingDoom.md)
+[![Brain Sap](/Curse/Images/Brain_Sap_v0.1.png)](/Artifact/BrainSap.md)
+[![Decay](/Curse/Images/Decay_v0.1.png)](/Artifact/Decay.md)
+[![Eternal Curse](/Curse/Images/Eternal_Curse_v0.2.png)](/Artifact/EternalCurse.md)
+[![Impending Doom](/Curse/Images/Impending_Doom_v0.1.png)](/Artifact/ImpendingDoom.md)
 
 </details>
 
 <details>
 <summary>Events</summary>
 
-[![Ambush](/Images/Ambush_v0.3.0.png)](/Event/Ambush.md)
-[![Auction](/Images/Auction_v0.2.png)](/Event/Auction.md)
-[![Bewitch](/Images/Bewitch_v0.1.0.png)](/Event/Bewitch.md)
-[![Blockade](/Images/Blockade_v0.1.png)](/Event/Blockade.md)
-[![Charge](/Images/Charge_v0.2.0.png)](/Event/Charge.md)
-[![Charity](/Images/Charity_v0.3.0.png)](/Event/Charity.md)
-[![Dark Carnival](/Images/Dark_Carnival_v0.1.png)](/Event/DarkCarnival.md)
-[![Debt Collection](/Images/Debt_Collection_v0.2.png)](/Event/DebtCollection.md)
-[![Evening Feast](/Images/Evening_Feast_v0.1.0.png)](/Event/EveningFeast.md)
-[![Excavate](/Images/Excavate_v0.2.0.png)](/Event/Excavate.md)
-[![Funeral Pyre](/Images/Funeral_Pyre_v0.2.0.png)](/Event/FuneralPyre.md)
-[![Grave Robbery](/Images/Grave_Robbery_v0.2.0.png)](/Event/GraveRobbery.md)
-[![Heist](/Images/Heist_v0.3.0.png)](/Event/Heist.md)
-[![Heroic Sacrifice](/Images/Heroic_Sacrifice_v0.3.0.png)](/Event/HeroicSacrifice.md)
-[![Hidden Cache](/Images/Hidden_Cache_v0.1.0.png)](/Event/HiddenCache.md)
-[![Hiding the Loot](/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
-[![Highway Robbery](/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
-[![Inspire Morale](/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
-[![Invade](/Images/Invade_v0.1.0.png)](/Event/Invade.md)
-[![Joust](/Images/Joust_v0.2.0.png)](/Event/Joust.md)
-[![Lone Knight](/Images/Lone_Knight_v0.1.0.png)](/Event/LoneKnight.md)
-[![Maelstrom](/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
-[![Maraud](/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
-[![Masquerade Ball](/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
-[![Meld](/Images/Meld_v0.2.0.png)](/Event/Meld.md)
-[![Peaceful Evening](/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
-[![Perilous Journey](/Images/Perilous_Journey_v0.2.0.png)](/Event/Perilous_Journey.md)
-[![Pirate's Curse](/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
-[![Prohibition](/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
-[![Ransack](/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
-[![Recruit](/Images/Recruit_v0.1.0.png)](/Event/Recruit.md)
-[![Shady Deal](/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
-[![Siege](/Images/Siege_v0.2.0.png)](/Event/Siege.md)
-[![Smuggling Ring](/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
-[![Stiff Loan](/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
-[![Street Bargain](/Images/Street_Bargain_v0.1.0.png)](/Event/StreetBargain.md)
-[![Tarot Reading](/Images/Tarot_Reading_v0.3.0.png)](/Event/TarotReading.md)
-[![Trek](/Images/Trek_v0.2.0.png)](/Event/Trek.md)
-[![Unearthed Riches](/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
-[![Usurp the Duke](/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
-[![Volley](/Images/Volley_v0.1.0.png)](/Event/Volley.md)
+[![Ambush](/Event/Images/Ambush_v0.3.0.png)](/Event/Ambush.md)
+[![Auction](/Event/Images/Auction_v0.2.png)](/Event/Auction.md)
+[![Bewitch](/Event/Images/Bewitch_v0.1.0.png)](/Event/Bewitch.md)
+[![Blockade](/Event/Images/Blockade_v0.1.png)](/Event/Blockade.md)
+[![Charge](/Event/Images/Charge_v0.2.0.png)](/Event/Charge.md)
+[![Charity](/Event/Images/Charity_v0.3.0.png)](/Event/Charity.md)
+[![Dark Carnival](/Event/Images/Dark_Carnival_v0.1.png)](/Event/DarkCarnival.md)
+[![Debt Collection](/Event/Images/Debt_Collection_v0.2.png)](/Event/DebtCollection.md)
+[![Evening Feast](/Event/Images/Evening_Feast_v0.1.0.png)](/Event/EveningFeast.md)
+[![Excavate](/Event/Images/Excavate_v0.2.0.png)](/Event/Excavate.md)
+[![Funeral Pyre](/Event/Images/Funeral_Pyre_v0.2.0.png)](/Event/FuneralPyre.md)
+[![Grave Robbery](/Event/Images/Grave_Robbery_v0.2.0.png)](/Event/GraveRobbery.md)
+[![Heist](/Event/Images/Heist_v0.3.0.png)](/Event/Heist.md)
+[![Heroic Sacrifice](/Event/Images/Heroic_Sacrifice_v0.3.0.png)](/Event/HeroicSacrifice.md)
+[![Hidden Cache](/Event/Images/Hidden_Cache_v0.1.0.png)](/Event/HiddenCache.md)
+[![Hiding the Loot](/Event/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
+[![Highway Robbery](/Event/Images/Highway_Robbery_v0.1.0.png)](/Event/HighwayRobbery.md)
+[![Inspire Morale](/Event/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
+[![Invade](/Event/Images/Invade_v0.1.0.png)](/Event/Invade.md)
+[![Joust](/Event/Images/Joust_v0.2.0.png)](/Event/Joust.md)
+[![Lone Knight](/Event/Images/Lone_Knight_v0.1.0.png)](/Event/LoneKnight.md)
+[![Maelstrom](/Event/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
+[![Maraud](/Event/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
+[![Masquerade Ball](/Event/Images/Masquerade_Ball_v0.3.0.png)](/Event/MasqueradeBall.md)
+[![Meld](/Event/Images/Meld_v0.2.0.png)](/Event/Meld.md)
+[![Peaceful Evening](/Event/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
+[![Perilous Journey](/Event/Images/Perilous_Journey_v0.2.0.png)](/Event/Perilous_Journey.md)
+[![Pirate's Curse](/Event/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
+[![Prohibition](/Event/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
+[![Ransack](/Event/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
+[![Recruit](/Event/Images/Recruit_v0.1.0.png)](/Event/Recruit.md)
+[![Shady Deal](/Event/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
+[![Siege](/Event/Images/Siege_v0.2.0.png)](/Event/Siege.md)
+[![Smuggling Ring](/Event/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
+[![Stiff Loan](/Event/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
+[![Street Bargain](/Event/Images/Street_Bargain_v0.1.0.png)](/Event/StreetBargain.md)
+[![Tarot Reading](/Event/Images/Tarot_Reading_v0.3.0.png)](/Event/TarotReading.md)
+[![Trek](/Event/Images/Trek_v0.2.0.png)](/Event/Trek.md)
+[![Unearthed Riches](/Event/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
+[![Usurp the Duke](/Event/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
+[![Volley](/Event/Images/Volley_v0.1.0.png)](/Event/Volley.md)
 
 </details>
 
 <details>
 <summary>Exchanges</summary>
 
-[![Borrow](/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
-[![Confess](/Images/Confess_v0.1.0.png)](/Exchange/Confess.md)
-[![Indentured Servitude](/Images/Indentured_Servitude_v0.1.0.png)](/Exchange/IndenturedServitude.md)
-[![Smuggle](/Images/Smuggle_v0.1.0.png)](/Exchange/Smuggle.md)
+[![Borrow](/Exchange/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
+[![Confess](/Exchange/Images/Confess_v0.1.0.png)](/Exchange/Confess.md)
+[![Indentured Servitude](/Exchange/Images/Indentured_Servitude_v0.1.0.png)](/Exchange/IndenturedServitude.md)
+[![Smuggle](/Exchange/Images/Smuggle_v0.1.0.png)](/Exchange/Smuggle.md)
 
 </details>
 
 <details>
 <summary>Landmarks</summary>
 
-[![Barren Wasteland](/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
-[![Cottage](/Images/Cottage_v0.1.png)](/Landmark/Cottage.md)
-[![Crone's Hut](/Images/Crone's_Hut_v0.1.png)](/Landmark/CronesHut.md)
-[![Guild Hall](/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
-[![Infested Sewers](/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
-[![Jungle Ruins](/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
-[![Rubble](/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
-[![Secluded Temple](/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
-[![Shipwreck](/Images/Shipwreck_v0.2.0.png)](/Landmark/Shipwreck.md)
+[![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
+[![Cottage](/Landmark/Images/Cottage_v0.1.png)](/Landmark/Cottage.md)
+[![Crone's Hut](/Landmark/Images/Crone's_Hut_v0.1.png)](/Landmark/CronesHut.md)
+[![Guild Hall](/Landmark/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
+[![Infested Sewers](/Landmark/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
+[![Jungle Ruins](/Landmark/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
+[![Rubble](/Landmark/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
+[![Secluded Temple](/Landmark/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
+[![Shipwreck](/Landmark/Images/Shipwreck_v0.2.0.png)](/Landmark/Shipwreck.md)
 
 </details>
 
 <details>
 <summary>Laws</summary>
 
-[![Restoration](/Images/Restoration_v0.1.0.png)](/Law/Restoration.md)
-[![Trade Sanctions](/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
+[![Restoration](/Law/Images/Restoration_v0.1.0.png)](/Law/Restoration.md)
+[![Trade Sanctions](/Law/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
 
 </details>
 
 <details>
 <summary>Projects</summary>
 
-[![Ancient Worship](/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
-[![Copppersmith](/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
-[![Harbour](/Images/Harbour_v0.2.0.png)](/Project/Harbour.md)
-[![Hunting Dogs](/Images/Hunting_Dogs_v0.1.0.png)](/Project/HuntingDogs.md)
-[![Iron Casting](/Images/Iron_Casting_v0.2.0.png)](/Project/IronCasting.md)
-[![Marketplace](/Images/Marketplace_v0.2.0.png)](/Project/Marketplace.md)
-[![Mercantilism](/Images/Mercantilism_v0.3.0.png)](/Project/Mercantilism.md)
-[![Raiding Party](/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
-[![Placer Mines](/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
-[![Printing Press](/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
-[![Reinforcements](/Images/Reinforcements_v0.2.png)](/Project/Reinforcements.md)
-[![Theocracy](/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
-[![Town Hall](/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
+[![Ancient Worship](/Project/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
+[![Copppersmith](/Project/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
+[![Harbour](/Project/Images/Harbour_v0.2.0.png)](/Project/Harbour.md)
+[![Hunting Dogs](/Project/Images/Hunting_Dogs_v0.1.0.png)](/Project/HuntingDogs.md)
+[![Iron Casting](/Project/Images/Iron_Casting_v0.2.0.png)](/Project/IronCasting.md)
+[![Marketplace](/Project/Images/Marketplace_v0.2.0.png)](/Project/Marketplace.md)
+[![Mercantilism](/Project/Images/Mercantilism_v0.3.0.png)](/Project/Mercantilism.md)
+[![Raiding Party](/Project/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
+[![Placer Mines](/Project/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
+[![Printing Press](/Project/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
+[![Reinforcements](/Project/Images/Reinforcements_v0.2.png)](/Project/Reinforcements.md)
+[![Theocracy](/Project/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
+[![Town Hall](/Project/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
 
 </details>
 

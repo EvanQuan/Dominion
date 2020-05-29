@@ -20,7 +20,7 @@ strong.
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.0]: /Images/Masquerade_Ball_v0.1.png
-[^v0.2.0]: /Images/Masquerade_Ball_v0.2.png
-[^v0.3.0]: /Images/Masquerade_Ball_v0.3.0.png
+[^v0.1.0]: /Event/Images/Masquerade_Ball_v0.1.png
+[^v0.2.0]: /Event/Images/Masquerade_Ball_v0.2.png
+[^v0.3.0]: /Event/Images/Masquerade_Ball_v0.3.0.png
 [^Bonfire]:http://wiki.dominionstrategy.com/index.php/Bonfire

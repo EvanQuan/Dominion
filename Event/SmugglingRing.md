@@ -45,6 +45,6 @@ and adds an extra level of decision making during the Buy phase.
 
 ![The Underground v0.1.0][^The Underground v0.1.0]
 
-[^The Underground v0.1.0]: /Images/The_Underground_v0.1.0.png
+[^The Underground v0.1.0]: /Event/Images/The_Underground_v0.1.0.png
 [^Black Market]: http://wiki.dominionstrategy.com/index.php/Black_Market
 [^Trader]: http://wiki.dominionstrategy.com/index.php/Trader

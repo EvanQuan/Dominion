@@ -2,7 +2,7 @@
 
 ![v0.1][^1]
 
-[^1]: /Images/Barren_Wasteland_v0.1.png
+[^1]: /Landmark/Images/Barren_Wasteland_v0.1.png
 
 ## FAQ
 

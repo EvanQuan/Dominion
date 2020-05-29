@@ -16,5 +16,5 @@
 
 ![v0.1][^1]
 
-[^2]: /Images/Sextant_v0.2.png
-[^1]: /Images/Sextant_v0.1.png
+[^2]: /Artifact/Images/Sextant_v0.2.png
+[^1]: /Artifact/Images/Sextant_v0.1.png

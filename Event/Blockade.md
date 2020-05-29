@@ -1,6 +1,6 @@
 # Blockade
 
-![v0.1](/Images/Blockade_v0.1.png)
+![v0.1](/Event/Images/Blockade_v0.1.png)
 
 ## FAQ
 

@@ -17,7 +17,7 @@ Giving normal Curses can be too exploitable with strong trashers like
 
 ![v0.1][^1]
 
-[^1]: /Images/Hand_of_Midas_v0.1.png
-[^2]: /Images/Hand_of_Midas_v0.2.png
+[^1]: /Artifact/Images/Hand_of_Midas_v0.1.png
+[^2]: /Artifact/Images/Hand_of_Midas_v0.2.png
 [^3]: http://wiki.dominionstrategy.com/index.php/Chapel
 [^4]: /Curse/EternalCurse.md

@@ -2,7 +2,7 @@
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.0]: /Images/Trade_Sanctions_v0.1.0.png
+[^v0.1.0]: /Law/Images/Trade_Sanctions_v0.1.0.png
 
 ## FAQ
 
