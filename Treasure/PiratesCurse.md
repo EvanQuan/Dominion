@@ -19,5 +19,5 @@ any Curses.
 
 ![v0.1][^1]
 
-[^1]: /Images/Pirate's_Curse_v0.1.png
-[^2]: /Images/Pirate's_Curse_v0.2.png
+[^1]: /Treasure/Images/Pirate's_Curse_v0.1.png
+[^2]: /Treasure/Images/Pirate's_Curse_v0.2.png

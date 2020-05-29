@@ -31,7 +31,7 @@ interaction with gainers and trashers.
 Comparable to [Marauder][^2]. Does not give Ruins, but also does not cost an
 Action to play.
 
-[^1]: /Images/Stolen_Jewels_v0.1.png
+[^1]: /Treasure/Images/Stolen_Jewels_v0.1.png
 [^2]: http://wiki.dominionstrategy.com/index.php/Marauder
-[^3]: /Images/Stolen_Jewels_v0.2.png
-[^4]: /Images/Stolen_Jewels_v0.3.png
+[^3]: /Treasure/Images/Stolen_Jewels_v0.2.png
+[^4]: /Treasure/Images/Stolen_Jewels_v0.3.png
