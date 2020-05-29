@@ -14,5 +14,5 @@ Change phrasing.
 
 ![v0.1][^1]
 
-[^1]: /Images/Shopping_Spree_v0.1.png
-[^2]: /Images/Shopping_Spree_v0.1.1.png
+[^1]: /Quest/Images/Shopping_Spree_v0.1.png
+[^2]: /Quest/Images/Shopping_Spree_v0.1.1.png

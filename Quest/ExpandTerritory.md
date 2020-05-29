@@ -20,6 +20,6 @@ Change phrasing.
 
 ![v0.1][^v0.1.0]
 
-[^v0.1.0]: /Images/Expand_Territory_v0.1.png
-[^v0.1.1]: /Images/Expand_Territory_v0.1.1.png
-[^v0.1.2]: /Images/Expand_Territory_v0.1.2.png
+[^v0.1.0]: /Quest/Images/Expand_Territory_v0.1.png
+[^v0.1.1]: /Quest/Images/Expand_Territory_v0.1.1.png
+[^v0.1.2]: /Quest/Images/Expand_Territory_v0.1.2.png

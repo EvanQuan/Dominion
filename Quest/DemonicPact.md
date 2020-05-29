@@ -34,7 +34,7 @@ Reward was too weak for such a large investment.
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.0]: /Images/Demonic_Pact_v0.1.png
-[^v0.2.0]: /Images/Demonic_Pact_v0.2.png
-[^v0.3.0]: /Images/Demonic_Pact_v0.3.png
-[^v0.4.0]: /Images/Demonic_Pact_v0.4.0.png
+[^v0.1.0]: /Quest/Images/Demonic_Pact_v0.1.png
+[^v0.2.0]: /Quest/Images/Demonic_Pact_v0.2.png
+[^v0.3.0]: /Quest/Images/Demonic_Pact_v0.3.png
+[^v0.4.0]: /Quest/Images/Demonic_Pact_v0.4.0.png

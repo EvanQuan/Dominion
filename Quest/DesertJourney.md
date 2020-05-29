@@ -45,9 +45,9 @@ Changed so Coffers can be used on the same turn's Buy phase.
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.0]: /Images/Desert_Journey_v0.1.png
-[^v0.2.0]: /Images/Desert_Journey_v0.2.png
-[^v0.3.0]: /Images/Desert_Journey_v0.3.png
-[^v0.3.1]: /Images/Desert_Journey_v0.3.1.png
-[^v0.3.2]: /Images/Desert_Journey_v0.3.2.png
-[^v0.3.3]: /Images/Desert_Journey_v0.3.3.png
+[^v0.1.0]: /Quest/Images/Desert_Journey_v0.1.png
+[^v0.2.0]: /Quest/Images/Desert_Journey_v0.2.png
+[^v0.3.0]: /Quest/Images/Desert_Journey_v0.3.png
+[^v0.3.1]: /Quest/Images/Desert_Journey_v0.3.1.png
+[^v0.3.2]: /Quest/Images/Desert_Journey_v0.3.2.png
+[^v0.3.3]: /Quest/Images/Desert_Journey_v0.3.3.png

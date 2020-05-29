@@ -31,7 +31,7 @@ Changed phrasing.
 - The Coppers can be gained over multiple turns.
 - Track the Curses gained per player with Project cubes and tokens.
 
-[^v0.1.0]: /Images/Hire_a_Local_v0.1.png
-[^v0.1.1]: /Images/Hire_a_Local_v0.1.1.png
-[^v0.1.2]: /Images/Hire_a_Local_v0.1.2.png
-[^v0.2.0]: /Images/Hire_a_Local_v0.2.0.png
+[^v0.1.0]: /Quest/Images/Hire_a_Local_v0.1.png
+[^v0.1.1]: /Quest/Images/Hire_a_Local_v0.1.1.png
+[^v0.1.2]: /Quest/Images/Hire_a_Local_v0.1.2.png
+[^v0.2.0]: /Quest/Images/Hire_a_Local_v0.2.0.png
