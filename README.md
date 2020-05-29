@@ -183,9 +183,9 @@
 <details>
 <summary>Ways</summary>
 
-[![Way of the Bee](/Images/Way_of_the_Bee_v0.2.0.png)](/Way/WayOfTheBee.md)
-[![Way of the Panda](/Images/Way_of_the_Panda_v0.1.0.png)](/Way/WayOfThePanda.md)
-[![Way of the Parrot](/Images/Way_of_the_Parrot_v0.2.0.png)](/Way/WayOfTheParrot.md)
+[![Way of the Bee](/Way/Images/Way_of_the_Bee_v0.2.0.png)](/Way/WayOfTheBee.md)
+[![Way of the Panda](/Way/Images/Way_of_the_Panda_v0.1.0.png)](/Way/WayOfThePanda.md)
+[![Way of the Parrot](/Way/Images/Way_of_the_Parrot_v0.2.0.png)](/Way/WayOfTheParrot.md)
 
 </details>
 
