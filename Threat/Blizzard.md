@@ -2,7 +2,7 @@
 
 ![v0.1.0][^v0.1.0]
 
-[^v0.1.0]: /Images/Blizzard_v0.1.0.png
+[^v0.1.0]: /Threat/Images/Blizzard_v0.1.0.png
 
 ## FAQ
 

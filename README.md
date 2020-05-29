@@ -150,13 +150,13 @@
 <details>
 <summary>Threats</summary>
 
-[![Bandits](/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
-[![Blizzard](/Images/Blizzard_v0.1.0.png)](/Threat/Blizzard.md)
-[![Dragon](/Images/Dragon_v0.1.0.png)](/Threat/Dragon.md)
-[![Pirates](/Images/Pirates_v0.1.0.png)](/Threat/Pirates.md)
-[![Secret Cult](/Images/Secret_Cult_v0.1.0.png)](/Threat/SecretCult.md)
-[![Spirits](/Images/Spirits_v0.1.0.png)](/Threat/Spirits.md)
-[![Swamp Hag](/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
+[![Bandits](/Threat/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
+[![Blizzard](/Threat/Images/Blizzard_v0.1.0.png)](/Threat/Blizzard.md)
+[![Dragon](/Threat/Images/Dragon_v0.1.0.png)](/Threat/Dragon.md)
+[![Pirates](/Threat/Images/Pirates_v0.1.0.png)](/Threat/Pirates.md)
+[![Secret Cult](/Threat/Images/Secret_Cult_v0.1.0.png)](/Threat/SecretCult.md)
+[![Spirits](/Threat/Images/Spirits_v0.1.0.png)](/Threat/Spirits.md)
+[![Swamp Hag](/Threat/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
 
 </details>
 
