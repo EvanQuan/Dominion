@@ -126,7 +126,7 @@
 [![Raiding Party](/Project/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
 [![Placer Mines](/Project/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
 [![Printing Press](/Project/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
-[![Reinforcements](/Project/Images/Reinforcements_v0.2.png)](/Project/Reinforcements.md)
+[![Reinforcements](/Project/Images/Reinforcements_v0.3.0.png)](/Project/Reinforcements.md)
 [![Theocracy](/Project/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
 [![Town Hall](/Project/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
 

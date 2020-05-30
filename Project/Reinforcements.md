@@ -1,8 +1,12 @@
 # Reinforcements
 
-![v0.2.0][^v0.2.0]
+![v0.3.0][^v0.3.0]
 
 ## History
+
+### v0.3.0
+
+![v0.3.0][^v0.3.0]
 
 ### v0.2.0
 
@@ -29,3 +33,4 @@ More focused on its ability to negate Attacks.
 
 [^v0.1.0]: /Project/Images/Reinforcements_v0.1.png
 [^v0.2.0]: /Project/Images/Reinforcements_v0.2.png
+[^v0.3.0]: /Project/Images/Reinforcements_v0.3.0.png
