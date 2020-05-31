@@ -189,6 +189,43 @@
 
 </details>
 
+<details>
+<summary>Weather</summary>
+
+[![Aurora Borealis](/Weather/Images/Aurora_Borealis_v0.1.0.png)](/Weather/AuroraBorealis.md)
+[![Autumn Breeze](/Weather/Images/Autumn_Breeze_v0.1.0.png)](/Weather/AutumnBreeze.md)
+[![Blizzard](/Weather/Images/Blizzard_v0.1.0.png)](/Weather/Blizzard.md)
+[![Breeze](/Weather/Images/Breeze_v0.1.0.png)](/Weather/Breeze.md)
+[![Calm](/Weather/Images/Calm_v0.1.0.png)](/Weather/Calm.md)
+[![Clear Skies](/Weather/Images/Clear_Skies_v0.1.0.png)](/Weather/ClearSkies.md)
+[![Cloudy](/Weather/Images/Cloudy_v0.1.0.png)](/Weather/Cloudy.md)
+[![Cyclone](/Weather/Images/Cyclone_v0.1.0.png)](/Weather/Cyclone.md)
+[![Drought](/Weather/Images/Drought_v0.2.0.png)](/Weather/Drought.md)
+[![Dust Storm](/Weather/Images/Dust_Storm_v0.1.0.png)](/Weather/Drought.md)
+[![Firestorm](/Weather/Images/Firestorm_v0.1.0.png)](/Weather/Firestorm.md)
+[![Flash Flood](/Weather/Images/Flash_Flood_v0.2.0.png)](/Weather/FlashFlood.md)
+[![Fog](/Weather/Images/Fog_v0.2.0.png)](/Weather/Fog.md)
+[![Gale](/Weather/Images/Gale_v0.1.0.png)](/Weather/Gale.md)
+[![Heat Wave](/Weather/Images/Heat_Wave_v0.1.0.png)](/Weather/HeatWave.md)
+[![Humid](/Weather/Images/Humid_v0.1.0.png)](/Weather/Humid.md)
+[![Light Showers](/Weather/Images/Light_Showers_v0.1.0.png)](/Weather/LightShowers.md)
+[![Lunar Eclipse](/Weather/Images/Lunar_Eclipse_v0.1.0.png)](/Weather/LunarEclipse.md)
+[![Mist](/Weather/Images/Mist_v0.1.0.png)](/Weather/Mist.md)
+[![Plague](/Weather/Images/Plague_v0.1.0.png)](/Weather/Plague.md)
+[![Powder Snow](/Weather/Images/Powder_Snow_v0.1.0.png)](/Weather/PowderSnow.md)
+[![Rainbow](/Weather/Images/Rainbow_v0.1.0.png)](/Weather/Rainbow.md)
+[![Snow Storm](/Weather/Images/Snow_Storm_v0.1.0.png)](/Weather/SnowStorm.md)
+[![Solar Eclipse](/Weather/Images/Solar_Eclipse_v0.1.0.png)](/Weather/SolarEclipse.md)
+[![Spring Blossom](/Weather/Images/Spring_Blossom_v0.1.0.png)](/Weather/SpringBlossom.md)
+[![Sunny](/Weather/Images/Sunny_v0.1.0.png)](/Weather/Sunny.md)
+[![Thunderstorm](/Weather/Images/Thunderstorm_v0.1.0.png)](/Weather/Thunderstorm.md)
+[![Warm Front](/Weather/Images/Warm_Front_v0.1.0.png)](/Weather/WarmFront.md)
+[![Water Spout](/Weather/Images/Water_Spout_v0.1.0.png)](/Weather/WaterSpout.md)
+[![Wildfire](/Weather/Images/Wildfire_v0.1.0.png)](/Weather/Wildfire.md)
+[![Zephyr](/Weather/Images/Zephyr_v0.1.0.png)](/Weather/Zephyr.md)
+
+</details>
+
 ## Game Modes
 
 [Shared Draft](/GameModes/SharedDraft.md)
