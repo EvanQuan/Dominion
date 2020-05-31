@@ -231,3 +231,5 @@
 [Shared Draft](/GameModes/SharedDraft.md)
 
 [Draft Ban](/GameModes/DraftBan.md)
+
+[Solitaire](/GameModes/Solitaire.md)
