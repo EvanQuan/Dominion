@@ -2,20 +2,15 @@
 
 ## Setup
 
-### Easy
+### Easy Difficulty
 
 Setup the Supply with 12 Victory cards of each type and 20 Curses (as if
 playing with 3-4 players).
 
-### Medium
+### Medium or Hard Difficulty
 
-Setup the Supply with 8 Estates cards and 12 Victory cards of each other type
+Setup the Supply with 8 Estates and 12 Victory cards of each other type
 and 10 Curses.
-
-### Hard
-
-Setup the Supply with 6 Estates and 12 Victory cards of each other type and
-10 Curses.
 
 ## Rules
 
@@ -33,6 +28,8 @@ such as [Black Cat][^Black Cat] or [Road Network][^Road Network].
 
 Whenever a basic Victory supply pile empties, the player immediately gains a
 Curse.
+
+**If on Hard difficulty, the player gains 2 Curses instead.**
 
 [^Black Cat]: http://wiki.dominionstrategy.com/index.php/Black_Cat
 [^Road Network]: http://wiki.dominionstrategy.com/index.php/Road_Network
