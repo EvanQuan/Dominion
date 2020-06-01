@@ -21,15 +21,15 @@ If a card in the opponent's deck is trashed, it is placed onto their deck.
 
 The opponent goes first.
 
-Every turn, the opponent gains the cheapest possible basic Victory card for
-free (Estate, then Duchy, then Province) and places it facedown onto their
-deck. This counts as a gain, in case there are cards that react to gains,
-such as [Black Cat][^Black Cat] or [Road Network][^Road Network].
+Every turn, the opponent [Exiles][^Exile] the cheapest possible basic Victory
+card (Estate, then Duchy, then Province).
 
 Whenever a basic Victory supply pile empties, the player immediately gains a
 Curse.
 
+If the opponent gains a card, it is placed onto their deck. Any cards
+discarded are placed on the bottom of their deck.
+
 **If on Hard difficulty, the player gains 2 Curses instead.**
 
-[^Black Cat]: http://wiki.dominionstrategy.com/index.php/Black_Cat
-[^Road Network]: http://wiki.dominionstrategy.com/index.php/Road_Network
+[^Exile]: http://wiki.dominionstrategy.com/index.php/Exile
