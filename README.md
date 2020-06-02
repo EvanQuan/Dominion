@@ -183,6 +183,7 @@
 <details>
 <summary>Victory</summary>
 
+[![Beach](/Victory/Images/Beach_v0.1.0.png)](/Victory/Beach.md)
 [![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
 [![Rice Field](/Victory/Images/Rice_Field_v0.2.png)](/Victory/RiceField.md)
 [![Plains](/Victory/Images/Plains_v0.1.png)](/Victory/Plains.md)
