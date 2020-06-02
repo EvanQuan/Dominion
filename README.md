@@ -240,6 +240,7 @@
 <summary>Revisions</summary>
 
 [![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
+[![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
 [![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
 [![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
 [![Mandarin](/Revisions/Images/Mandarin_v0.1.0.png)](/Revisions/Mandarin.md)
