@@ -240,6 +240,7 @@
 <summary>Revisions</summary>
 
 [![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
+[![Masquerade](/Revisions/Images/Masquerade_v0.1.0.png)](/Revisions/Masquerade.md)
 [![Mine](/Revisions/Images/Mine_v0.1.0.png)](/Revisions/Mine.md)
 
 </details>
