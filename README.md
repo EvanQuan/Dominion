@@ -242,6 +242,7 @@
 [![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
 [![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
 [![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
+[![Mandarin](/Revisions/Images/Mandarin_v0.1.0.png)](/Revisions/Mandarin.md)
 [![Masquerade](/Revisions/Images/Masquerade_v0.1.0.png)](/Revisions/Masquerade.md)
 [![Mine](/Revisions/Images/Mine_v0.1.0.png)](/Revisions/Mine.md)
 
