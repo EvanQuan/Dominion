@@ -241,6 +241,7 @@
 
 [![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
 [![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
+[![Duchess](/Revisions/Images/Duchess_v0.1.0.png)](/Revisions/Duchess.md)
 [![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
 [![Harvest](/Revisions/Images/Harvest_v0.1.0.png)](/Revisions/Harvest.md)
 [![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
