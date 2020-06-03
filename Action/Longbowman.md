@@ -6,8 +6,6 @@
 
 [Card][^Card]
 
-Illustrator UNKNOWN
-
 [Illustration][^Illustration]
 
 ---
