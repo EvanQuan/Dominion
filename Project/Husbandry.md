@@ -6,7 +6,7 @@
 
 [Card][^Card]
 
-[Illustrator][^Illustration]
+[Illustrator][^Illustrator]
 
 [Illustration][^Illustration]
 
