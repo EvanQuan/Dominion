@@ -255,6 +255,7 @@
 [![Mountebank](/Revisions/Images/Mountebank_v0.1.0.png)](/Revisions/Mountebank.md)
 [![Philosopher's Stone](/Revisions/Images/Philosopher's_Stone_v0.1.0.png)](/Revisions/PhilosophersStone.md)
 [![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
+[![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
 [![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
 
