@@ -5,8 +5,8 @@
 <details>
 <summary>Actions</summary>
 
+[![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
 [![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
-[![Fortune Teller](/Action/Images/Fortune_Teller_v0.1.0.png)](/Action/FortuneTeller.md)
 [![Greedy Baron](/Action/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
 [![Longbowman](/Action/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
 [![Lord](/Action/Images/Lord_v0.1.0.png)](/Action/Lord.md)
