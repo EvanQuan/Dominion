@@ -86,6 +86,7 @@
 [![Unearthed Riches](/Event/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
 [![Usurp the Duke](/Event/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
 [![Volley](/Event/Images/Volley_v0.1.0.png)](/Event/Volley.md)
+[![Voyage](/Event/Images/Voyage_v0.1.0.png)](/Event/Voyage.md)
 
 </details>
 
