@@ -65,7 +65,7 @@
 [![Inspire Morale](/Event/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
 [![Invade](/Event/Images/Invade_v0.1.0.png)](/Event/Invade.md)
 [![Joust](/Event/Images/Joust_v0.2.0.png)](/Event/Joust.md)
-[![Lone Knight](/Event/Images/Lone_Knight_v0.1.0.png)](/Event/LoneKnight.md)
+[![Lone Knight](/Event/Images/Lone_Knight_v0.2.0.png)](/Event/LoneKnight.md)
 [![Lone Rider](/Event/Images/Lone_Rider_v0.1.0.png)](/Event/LoneRider.md)
 [![Maelstrom](/Event/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
 [![Maraud](/Event/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
