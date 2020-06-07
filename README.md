@@ -21,7 +21,7 @@
 [![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
 [![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.2.0.png)](/Artifact/CrystalBall.md)
 [![Hand of Midas](/Artifact/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
-[![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.png)](/Artifact/JoustingLance.md)
+[![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.0.png)](/Artifact/JoustingLance.md)
 [![Mask](/Artifact/Images/Mask_v0.1.png)](/Artifact/Mask.md)
 [![Sextant](/Artifact/Images/Sextant_v0.1.png)](/Artifact/Sextant.md)
 
@@ -65,7 +65,7 @@
 [![Horse Fair](/Event/Images/Horse_Fair_v0.1.0.png)](/Event/HorseFair.md)
 [![Inspire Morale](/Event/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
 [![Invade](/Event/Images/Invade_v0.1.0.png)](/Event/Invade.md)
-[![Joust](/Event/Images/Joust_v0.2.0.png)](/Event/Joust.md)
+[![Joust](/Event/Images/Joust_v0.3.0.png)](/Event/Joust.md)
 [![Lone Knight](/Event/Images/Lone_Knight_v0.2.0.png)](/Event/LoneKnight.md)
 [![Lone Rider](/Event/Images/Lone_Rider_v0.1.0.png)](/Event/LoneRider.md)
 [![Maelstrom](/Event/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
