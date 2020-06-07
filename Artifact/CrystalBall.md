@@ -12,7 +12,10 @@
 
 ---
 
-Used with [Clairvoyant][^Clairvoyant].
+Used with:
+
+- [Clairvoyant][^Clairvoyant]
+- [Divine][^Divine]
 
 ## History
 
@@ -30,3 +33,4 @@ Used with [Clairvoyant][^Clairvoyant].
 [^Illustrator]: https://www.artstation.com/alexandracurte
 [^Illustration]: https://www.deviantart.com/axxxa06/art/Fortune-teller-742460601
 [^Clairvoyant]: /Action/Clairvoyant.md
+[^Divine]: /Event/Divine.md
