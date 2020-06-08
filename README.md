@@ -7,6 +7,7 @@
 
 [![Blacksmith](/Action/Images/Blacksmith_v0.1.0.png)](/Action/Blacksmith.md)
 [![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
+[![Crone](/Action/Images/Crone_v0.1.0.png)](/Action/Crone.md)
 [![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
 [![Greedy Baron](/Action/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
 [![Longbowman](/Action/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
