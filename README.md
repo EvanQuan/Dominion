@@ -5,6 +5,7 @@
 <details>
 <summary>Actions</summary>
 
+[![Angry Mob](/Action/Images/Angry_Mob_v0.1.0.png)](/Action/AngryMob.md)
 [![Blacksmith](/Action/Images/Blacksmith_v0.1.0.png)](/Action/Blacksmith.md)
 [![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
 [![Crone](/Action/Images/Crone_v0.1.0.png)](/Action/Crone.md)
