@@ -53,6 +53,7 @@
 [![Celebration](/Event/Images/Celebration_v0.1.0.png)](/Event/Celebration.md)
 [![Charge](/Event/Images/Charge_v0.2.0.png)](/Event/Charge.md)
 [![Charity](/Event/Images/Charity_v0.3.0.png)](/Event/Charity.md)
+[![Colonize](/Event/Images/Colonize_v0.1.0.png)](/Event/Colonize.md)
 [![Conquer](/Event/Images/Conquer_v0.1.0.png)](/Event/Conquer.md)
 [![Crusade](/Event/Images/Crusade_v0.1.0.png)](/Event/Crusade.md)
 [![Dark Carnival](/Event/Images/Dark_Carnival_v0.1.png)](/Event/DarkCarnival.md)
