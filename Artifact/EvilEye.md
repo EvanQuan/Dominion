@@ -15,6 +15,7 @@
 Used with:
 
 - [Crone][^Crone]
+- [Dark Ritual][^Dark Ritual]
 - [Sacrificial Pact][^Sacrificial Pact]
 
 Based on the cut Evil Eye Artifact from the original [Old Witch][^Old Witch].
@@ -24,6 +25,7 @@ Victory cards.
 
 [^v0.1.0]: /Artifact/Images/Evil_Eye_v0.1.0.png
 [^Crone]: /Action/Crone.md
+[^Dark Ritual]: /Event/DarkRitual.md
 [^Sacrificial Pact]: /Event/SacrificialPact.md
 [^Old Witch]: http://wiki.dominionstrategy.com/index.php/Old_Witch
 [^Victory token]: http://wiki.dominionstrategy.com/index.php/Vp_token
