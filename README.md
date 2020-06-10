@@ -216,6 +216,7 @@
 <summary>Ways</summary>
 
 [![Way of the Bee](/Way/Images/Way_of_the_Bee_v0.2.0.png)](/Way/WayOfTheBee.md)
+[![Way of the Crow](/Way/Images/Way_of_the_Crow_v0.1.0.png)](/Way/WayOfTheCrow.md)
 [![Way of the Panda](/Way/Images/Way_of_the_Panda_v0.1.0.png)](/Way/WayOfThePanda.md)
 [![Way of the Parrot](/Way/Images/Way_of_the_Parrot_v0.2.0.png)](/Way/WayOfTheParrot.md)
 [![Way of the Raven](/Way/Images/Way_of_the_Raven_v0.1.0.png)](/Way/WayOfTheRaven.md)
