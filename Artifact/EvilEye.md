@@ -17,6 +17,7 @@ Used with:
 - [Crone][^Crone]
 - [Dark Ritual][^Dark Ritual]
 - [Sacrificial Pact][^Sacrificial Pact]
+- [Way of the Raven][^Way of the Raven]
 
 Based on the cut Evil Eye Artifact from the original [Old Witch][^Old Witch].
 Nerfed to trigger on gaining Victory cards instead of on gaining VP to remove
@@ -27,6 +28,7 @@ Victory cards.
 [^Crone]: /Action/Crone.md
 [^Dark Ritual]: /Event/DarkRitual.md
 [^Sacrificial Pact]: /Event/SacrificialPact.md
+[^Way of the Raven]: /Way/WayOfTheRaven.md
 [^Old Witch]: http://wiki.dominionstrategy.com/index.php/Old_Witch
 [^Victory token]: http://wiki.dominionstrategy.com/index.php/Vp_token
 [^Exile]: http://wiki.dominionstrategy.com/index.php/Exile
