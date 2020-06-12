@@ -63,6 +63,7 @@
 [![Evening Feast](/Event/Images/Evening_Feast_v0.1.0.png)](/Event/EveningFeast.md)
 [![Excavate](/Event/Images/Excavate_v0.2.0.png)](/Event/Excavate.md)
 [![Funeral Pyre](/Event/Images/Funeral_Pyre_v0.2.0.png)](/Event/FuneralPyre.md)
+[![Gather](/Event/Images/Gather_v0.1.0.png)](/Event/Gather.md)
 [![Grave Robbery](/Event/Images/Grave_Robbery_v0.2.0.png)](/Event/GraveRobbery.md)
 [![Heist](/Event/Images/Heist_v0.4.0.png)](/Event/Heist.md)
 [![Heroic Sacrifice](/Event/Images/Heroic_Sacrifice_v0.3.0.png)](/Event/HeroicSacrifice.md)
