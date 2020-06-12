@@ -147,6 +147,7 @@
 [![Campaign](/Project/Images/Campaign_v0.1.0.png)](/Project/Campaign.md)
 [![Copppersmith](/Project/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
 [![Crenellations](/Project/Images/Crenellations_v0.1.0.png)](/Project/Crenellations.md)
+[![Crypt](/Project/Images/Crypt_v0.1.0.png)](/Project/Crypt.md)
 [![Dry Dock](/Project/Images/Dry_Dock_v0.1.0.png)](/Project/DryDock.md)
 [![Foundry](/Project/Images/Foundry_v0.1.0.png)](/Project/Foundry.md)
 [![Harbour](/Project/Images/Harbour_v0.2.0.png)](/Project/Harbour.md)
