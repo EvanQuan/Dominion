@@ -204,7 +204,7 @@
 [![Dragon's Hoard](/Treasure/Images/Dragon's_Hoard_v0.2.0.png)](/Treasure/DragonsHoard.md)
 [![Foreign Currency](/Treasure/Images/Foreign_Currency_v0.1.png)](/Treasure/ForeignCurrency.md)
 [![Pirate's Curse](/Treasure/Images/Pirate's_Curse_v0.2.png)](/Treasure/PiratesCurse.md)
-[![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.3.png)](/Treasure/StolenJewels.md)
+[![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
 
 </details>
 
