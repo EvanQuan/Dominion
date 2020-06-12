@@ -203,7 +203,7 @@
 [![Buried Treasure](/Treasure/Images/Buried_Treasure_v0.2.0.png)](/Treasure/BuriedTreasure.md)
 [![Doubloons](/Treasure/Images/Doubloons_v0.3.0.png)](/Treasure/Doubloons.md)
 [![Dragon's Hoard](/Treasure/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure/DragonsHoard.md)
-[![Foreign Currency](/Treasure/Images/Foreign_Currency_v0.1.png)](/Treasure/ForeignCurrency.md)
+[![Foreign Coin](/Treasure/Images/Foreign_Coin_v0.2.0.png)](/Treasure/ForeignCoin.md)
 [![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
 
 </details>
