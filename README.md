@@ -75,13 +75,31 @@
 </details>
 
 <details>
-<summary>Treasures</summary>
+<summary>Treasure</summary>
 
-[![Buried Treasure](/Treasure/Images/Buried_Treasure_v0.2.0.png)](/Treasure/BuriedTreasure.md)
 [![Doubloons](/Treasure/Images/Doubloons_v0.3.0.png)](/Treasure/Doubloons.md)
-[![Dragon's Hoard](/Treasure/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure/DragonsHoard.md)
-[![Foreign Coin](/Treasure/Images/Foreign_Coin_v0.2.0.png)](/Treasure/ForeignCoin.md)
 [![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
+
+</details>
+
+<details>
+<summary>Treasure - Attack - Looter</summary>
+
+[![Dragon's Hoard](/Treasure-Attack-Looter/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure-Attack-Looter/DragonsHoard.md)
+
+</details>
+
+<details>
+<summary>Treasure - Duration</summary>
+
+[![Buried Treasure](/Treasure-Duration/Images/Buried_Treasure_v0.2.0.png)](/Treasure-Duration/BuriedTreasure.md)
+
+</details>
+
+<details>
+<summary>Treasure - Reaction</summary>
+
+[![Foreign Coin](/Treasure-Reaction/Images/Foreign_Coin_v0.2.0.png)](/Treasure-Reaction/ForeignCoin.md)
 
 </details>
 
