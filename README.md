@@ -3,20 +3,54 @@
 ## Cards
 
 <details>
-<summary>Actions</summary>
+<summary>Action</summary>
 
-[![Angry Mob](/Action/Images/Angry_Mob_v0.1.0.png)](/Action/AngryMob.md)
 [![Blacksmith](/Action/Images/Blacksmith_v0.1.0.png)](/Action/Blacksmith.md)
 [![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
 [![Crone](/Action/Images/Crone_v0.1.0.png)](/Action/Crone.md)
 [![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
-[![Greedy Baron](/Action/Images/Greedy_Baron_v0.1.0.png)](/Action/GreedyBaron.md)
-[![Longbowman](/Action/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
 [![Lord](/Action/Images/Lord_v0.1.0.png)](/Action/Lord.md)
-[![Petard](/Action/Images/Petard_v0.2.0.png)](/Action/Petard.md)
-[![Riverside Village](/Action/Images/Riverside_Village_v0.1.0.png)](/Action/RiversideVillage.md)
-[![Stronghold](/Action/Images/Stronghold_v0.1.0.png)](/Action/Stronghold.md)
 
+</details>
+
+<details>
+<summary>Action - Attack</summary>
+
+[![Greedy Baron](/Action-Attack/Images/Greedy_Baron_v0.1.0.png)](/Action-Attack/GreedyBaron.md)
+[![Petard](/Action-Attack/Images/Petard_v0.2.0.png)](/Action-Attack/Petard.md)
+
+</details>
+
+<details>
+<summary>Action - Attack - Duration</summary>
+
+[![Longbowman](/Action-Attack-Duration/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
+
+</details>
+
+<details>
+<summary>Action - Duration</summary>
+
+[![Riverside Village](/Action-Duration/Images/Riverside_Village_v0.1.0.png)](/Action/RiversideVillage.md)
+
+</details>
+
+<details>
+<summary>Action - Looter</summary>
+
+[![Angry Mob](/Action-Looter/Images/Angry_Mob_v0.1.0.png)](/Action/AngryMob.md)
+
+</details>
+
+<details>
+<summary>Action - Reaction</summary>
+
+[![Stronghold](/Action-Reaction/Images/Stronghold_v0.1.0.png)](/Action/Stronghold.md)
+
+</details>
+
+<details>
+<summary>Action - Victory</summary>
 </details>
 
 <details>
