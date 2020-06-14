@@ -14,7 +14,7 @@
 </details>
 
 <details>
-<summary>Action - Attack</summary>
+<summary>Action - Attack</summarys
 
 [![Greedy Baron](/Action-Attack/Images/Greedy_Baron_v0.1.0.png)](/Action-Attack/GreedyBaron.md)
 [![Petard](/Action-Attack/Images/Petard_v0.2.0.png)](/Action-Attack/Petard.md)
@@ -63,14 +63,19 @@
 
 </details>
 
+<details>
+<summary>Curse</summary>
+
+[![Eternal Curse](/Curse/Images/Eternal_Curse_v0.2.0.png)](/Curse/EternalCurse.md)
+
+</details>
 
 <details>
-<summary>Curses</summary>
+<summary>Curse - Reaction</summary>
 
-[![Brain Sap](/Curse/Images/Brain_Sap_v0.1.png)](/Artifact/BrainSap.md)
-[![Decay](/Curse/Images/Decay_v0.1.png)](/Artifact/Decay.md)
-[![Eternal Curse](/Curse/Images/Eternal_Curse_v0.2.png)](/Artifact/EternalCurse.md)
-[![Impending Doom](/Curse/Images/Impending_Doom_v0.1.png)](/Artifact/ImpendingDoom.md)
+[![Brain Sap](/Curse-Reaction/Images/Brain_Sap_v0.2.0.png)](/Curse-Reaction/BrainSap.md)
+[![Decay](/Curse-Reaction/Images/Decay_v0.2.0.png)](/Curse-Reaction/Decay.md)
+[![Impending Doom](/Curse-Reaction/Images/Impending_Doom_v0.2.0.png)](/Curse-Reaction/ImpendingDoom.md)
 
 </details>
 
