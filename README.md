@@ -24,28 +24,28 @@
 <details>
 <summary>Action - Attack - Duration</summary>
 
-[![Longbowman](/Action-Attack-Duration/Images/Longbowman_v0.1.0.png)](/Action/Longbowman.md)
+[![Longbowman](/Action-Attack-Duration/Images/Longbowman_v0.1.0.png)](/Action-Attack-Duration/Longbowman.md)
 
 </details>
 
 <details>
 <summary>Action - Duration</summary>
 
-[![Riverside Village](/Action-Duration/Images/Riverside_Village_v0.1.0.png)](/Action/RiversideVillage.md)
+[![Riverside Village](/Action-Duration/Images/Riverside_Village_v0.1.0.png)](/Action-Duration/RiversideVillage.md)
 
 </details>
 
 <details>
 <summary>Action - Looter</summary>
 
-[![Angry Mob](/Action-Looter/Images/Angry_Mob_v0.1.0.png)](/Action/AngryMob.md)
+[![Angry Mob](/Action-Looter/Images/Angry_Mob_v0.1.0.png)](/Action-Looter/AngryMob.md)
 
 </details>
 
 <details>
 <summary>Action - Reaction</summary>
 
-[![Stronghold](/Action-Reaction/Images/Stronghold_v0.1.0.png)](/Action/Stronghold.md)
+[![Stronghold](/Action-Reaction/Images/Stronghold_v0.1.0.png)](/Action-Reaction/Stronghold.md)
 
 </details>
 
