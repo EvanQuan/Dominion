@@ -17,18 +17,13 @@ and 10 Curses.
 The opponent does not have a hand, or any cards starting in their deck and
 cannot draws cards.
 
-If a card in the opponent's deck is trashed, it is placed onto their deck.
-
 The opponent goes first.
 
 Every turn, the opponent [Exiles][^Exile] the cheapest possible basic Victory
 card (Estate, then Duchy, then Province).
 
-Whenever a basic Victory supply pile empties, the player immediately gains a
+When the Estate or Duchy pile empties, the player immediately gains a
 Curse.
-
-If the opponent gains a card, it is placed onto their deck. Any cards
-discarded are placed on the bottom of their deck.
 
 **If on Hard difficulty, the player gains 2 Curses instead.**
 
