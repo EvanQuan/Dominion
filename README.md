@@ -63,19 +63,6 @@
 
 </details>
 
-<details>
-<summary>Artifacts</summary>
-
-[![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
-[![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.2.0.png)](/Artifact/CrystalBall.md)
-[![Evil Eye](/Artifact/Images/Evil_Eye_v0.1.0.png)](/Artifact/EvilEye.md)
-[![Hand of Midas](/Artifact/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
-[![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.0.png)](/Artifact/JoustingLance.md)
-[![Mask](/Artifact/Images/Mask_v0.1.0.png)](/Artifact/Mask.md)
-[![Pickaxe](/Artifact/Images/Pickaxe_v0.1.0.png)](/Artifact/Pickaxe.md)
-[![Sextant](/Artifact/Images/Sextant_v0.1.0.png)](/Artifact/Sextant.md)
-
-</details>
 
 <details>
 <summary>Curses</summary>
@@ -88,7 +75,71 @@
 </details>
 
 <details>
-<summary>Events</summary>
+<summary>Treasures</summary>
+
+[![Buried Treasure](/Treasure/Images/Buried_Treasure_v0.2.0.png)](/Treasure/BuriedTreasure.md)
+[![Doubloons](/Treasure/Images/Doubloons_v0.3.0.png)](/Treasure/Doubloons.md)
+[![Dragon's Hoard](/Treasure/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure/DragonsHoard.md)
+[![Foreign Coin](/Treasure/Images/Foreign_Coin_v0.2.0.png)](/Treasure/ForeignCoin.md)
+[![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
+
+</details>
+
+<details>
+<summary>Victory</summary>
+
+[![Beach](/Victory/Images/Beach_v0.1.0.png)](/Victory/Beach.md)
+[![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
+
+</details>
+
+<details>
+<summary>Victory - Reaction</summary>
+
+[![Plains](/Victory-Reaction/Images/Plains_v0.1.png)](/Victory-Reaction/Plains.md)
+
+</details>
+
+<details>
+<summary>Revisions</summary>
+
+[![Adventurer](/Revisions/Images/Adventurer_v0.1.0.png)](/Revisions/Adventurer.md)
+[![Beggar](/Revisions/Images/Beggar_v0.1.0.png)](/Revisions/Beggar.md)
+[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
+[![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
+[![Duchess](/Revisions/Images/Duchess_v0.1.0.png)](/Revisions/Duchess.md)
+[![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
+[![Harvest](/Revisions/Images/Harvest_v0.1.0.png)](/Revisions/Harvest.md)
+[![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
+[![Mandarin](/Revisions/Images/Mandarin_v0.1.0.png)](/Revisions/Mandarin.md)
+[![Masquerade](/Revisions/Images/Masquerade_v0.1.0.png)](/Revisions/Masquerade.md)
+[![Mine](/Revisions/Images/Mine_v0.1.0.png)](/Revisions/Mine.md)
+[![Mountebank](/Revisions/Images/Mountebank_v0.1.0.png)](/Revisions/Mountebank.md)
+[![Philosopher's Stone](/Revisions/Images/Philosopher's_Stone_v0.1.0.png)](/Revisions/PhilosophersStone.md)
+[![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
+[![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
+[![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
+[![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
+
+</details>
+
+## Landscapes
+
+<details>
+<summary>Artifact</summary>
+
+[![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
+[![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.2.0.png)](/Artifact/CrystalBall.md)
+[![Evil Eye](/Artifact/Images/Evil_Eye_v0.1.0.png)](/Artifact/EvilEye.md)
+[![Hand of Midas](/Artifact/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
+[![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.0.png)](/Artifact/JoustingLance.md)
+[![Mask](/Artifact/Images/Mask_v0.1.0.png)](/Artifact/Mask.md)
+[![Pickaxe](/Artifact/Images/Pickaxe_v0.1.0.png)](/Artifact/Pickaxe.md)
+[![Sextant](/Artifact/Images/Sextant_v0.1.0.png)](/Artifact/Sextant.md)
+
+</details>
+<details>
+<summary>Event</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.0.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -149,9 +200,8 @@
 [![Voyage](/Event/Images/Voyage_v0.1.0.png)](/Event/Voyage.md)
 
 </details>
-
 <details>
-<summary>Exchanges</summary>
+<summary>Exchange</summary>
 
 [![Borrow](/Exchange/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
 [![Confess](/Exchange/Images/Confess_v0.1.0.png)](/Exchange/Confess.md)
@@ -159,9 +209,8 @@
 [![Smuggle](/Exchange/Images/Smuggle_v0.1.0.png)](/Exchange/Smuggle.md)
 
 </details>
-
 <details>
-<summary>Landmarks</summary>
+<summary>Landmark</summary>
 
 [![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
 [![Cottage](/Landmark/Images/Cottage_v0.1.png)](/Landmark/Cottage.md)
@@ -178,7 +227,7 @@
 </details>
 
 <details>
-<summary>Laws</summary>
+<summary>Law</summary>
 
 [![Restoration](/Law/Images/Restoration_v0.1.0.png)](/Law/Restoration.md)
 [![Trade Sanctions](/Law/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
@@ -186,7 +235,7 @@
 </details>
 
 <details>
-<summary>Projects</summary>
+<summary>Project</summary>
 
 [![Ancient Worship](/Project/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
 [![Asylum](/Project/Images/Asylum_v0.1.0.png)](/Project/Asylum.md)
@@ -215,7 +264,7 @@
 </details>
 
 <details>
-<summary>Quests</summary>
+<summary>Quest</summary>
 
 [![Demonic Pact](/Quest/Images/Demonic_Pact_v0.4.0.png)](/Quest/DemonicPact.md)
 [![Desert Journey](/Quest/Images/Desert_Journey_v0.3.3.png)](/Quest/DesertJourney.md)
@@ -230,7 +279,7 @@
 </details>
 
 <details>
-<summary>Threats</summary>
+<summary>Threat</summary>
 
 [![Bandits](/Threat/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
 [![Blizzard](/Threat/Images/Blizzard_v0.1.0.png)](/Threat/Blizzard.md)
@@ -241,35 +290,8 @@
 [![Swamp Hag](/Threat/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
 
 </details>
-
 <details>
-<summary>Treasures</summary>
-
-[![Buried Treasure](/Treasure/Images/Buried_Treasure_v0.2.0.png)](/Treasure/BuriedTreasure.md)
-[![Doubloons](/Treasure/Images/Doubloons_v0.3.0.png)](/Treasure/Doubloons.md)
-[![Dragon's Hoard](/Treasure/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure/DragonsHoard.md)
-[![Foreign Coin](/Treasure/Images/Foreign_Coin_v0.2.0.png)](/Treasure/ForeignCoin.md)
-[![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
-
-</details>
-
-<details>
-<summary>Victory</summary>
-
-[![Beach](/Victory/Images/Beach_v0.1.0.png)](/Victory/Beach.md)
-[![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
-
-</details>
-
-<details>
-<summary>Victory - Reaction</summary>
-
-[![Plains](/Victory-Reaction/Images/Plains_v0.1.png)](/Victory-Reaction/Plains.md)
-
-</details>
-
-<details>
-<summary>Ways</summary>
+<summary>Way</summary>
 
 [![Way of the Bat](/Way/Images/Way_of_the_Bat_v0.1.0.png)](/Way/WayOfTheBat.md)
 [![Way of the Bee](/Way/Images/Way_of_the_Bee_v0.2.0.png)](/Way/WayOfTheBee.md)
@@ -314,29 +336,6 @@
 [![Water Spout](/Weather/Images/Water_Spout_v0.1.0.png)](/Weather/WaterSpout.md)
 [![Wildfire](/Weather/Images/Wildfire_v0.1.0.png)](/Weather/Wildfire.md)
 [![Zephyr](/Weather/Images/Zephyr_v0.1.0.png)](/Weather/Zephyr.md)
-
-</details>
-
-<details>
-<summary>Revisions</summary>
-
-[![Adventurer](/Revisions/Images/Adventurer_v0.1.0.png)](/Revisions/Adventurer.md)
-[![Beggar](/Revisions/Images/Beggar_v0.1.0.png)](/Revisions/Beggar.md)
-[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
-[![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
-[![Duchess](/Revisions/Images/Duchess_v0.1.0.png)](/Revisions/Duchess.md)
-[![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
-[![Harvest](/Revisions/Images/Harvest_v0.1.0.png)](/Revisions/Harvest.md)
-[![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
-[![Mandarin](/Revisions/Images/Mandarin_v0.1.0.png)](/Revisions/Mandarin.md)
-[![Masquerade](/Revisions/Images/Masquerade_v0.1.0.png)](/Revisions/Masquerade.md)
-[![Mine](/Revisions/Images/Mine_v0.1.0.png)](/Revisions/Mine.md)
-[![Mountebank](/Revisions/Images/Mountebank_v0.1.0.png)](/Revisions/Mountebank.md)
-[![Philosopher's Stone](/Revisions/Images/Philosopher's_Stone_v0.1.0.png)](/Revisions/PhilosophersStone.md)
-[![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
-[![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
-[![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
-[![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
 
 </details>
 
