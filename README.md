@@ -14,7 +14,7 @@
 </details>
 
 <details>
-<summary>Action - Attack</summarys
+<summary>Action - Attack</summary>
 
 [![Greedy Baron](/Action-Attack/Images/Greedy_Baron_v0.1.0.png)](/Action-Attack/GreedyBaron.md)
 [![Petard](/Action-Attack/Images/Petard_v0.2.0.png)](/Action-Attack/Petard.md)
