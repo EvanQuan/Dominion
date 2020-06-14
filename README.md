@@ -51,6 +51,9 @@
 
 <details>
 <summary>Action - Victory</summary>
+
+[![Ossuary](/Action-Victory/Images/Ossuary_v0.1.0.png)](/Action-Victory/Ossuary.md)
+
 </details>
 
 <details>
