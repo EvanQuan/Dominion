@@ -36,6 +36,13 @@
 </details>
 
 <details>
+<summary>Action - Duration - Victory</summary>
+
+[![Rice Field](/Action-Duration-Victory/Images/Rice_Field_v0.1.png)](/Action-Duration-Victory/RiceField.md)
+
+</details>
+
+<details>
 <summary>Action - Looter</summary>
 
 [![Angry Mob](/Action-Looter/Images/Angry_Mob_v0.1.0.png)](/Action-Looter/AngryMob.md)
@@ -251,8 +258,13 @@
 
 [![Beach](/Victory/Images/Beach_v0.1.0.png)](/Victory/Beach.md)
 [![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
-[![Rice Field](/Victory/Images/Rice_Field_v0.2.png)](/Victory/RiceField.md)
-[![Plains](/Victory/Images/Plains_v0.1.png)](/Victory/Plains.md)
+
+</details>
+
+<details>
+<summary>Victory - Reaction</summary>
+
+[![Plains](/Victory-Reaction/Images/Plains_v0.1.png)](/Victory-Reaction/Plains.md)
 
 </details>
 

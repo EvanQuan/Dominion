@@ -15,5 +15,5 @@ out to a Dutchy unless deliberately built around. Should cost a most 5 Coins.
 
 ![v0.1][^1]
 
-[^2]: /Victory/Images/Rice_Field_v0.2.png
-[^1]: /Victory/Images/Rice_Field_v0.1.png
+[^2]: /Action-Duration-Victory/Images/Rice_Field_v0.2.png
+[^1]: /Action-Duration-Victory/Images/Rice_Field_v0.1.png
