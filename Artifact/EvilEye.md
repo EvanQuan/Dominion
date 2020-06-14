@@ -14,6 +14,7 @@
 
 Used with:
 
+- [Blood Ceremony][^Blood Ceremony]
 - [Crone][^Crone]
 - [Dark Ritual][^Dark Ritual]
 - [Sacrificial Pact][^Sacrificial Pact]
@@ -25,6 +26,7 @@ synergy with with [Victory tokens][^Victory token] and [Exiling][^Exile]
 Victory cards.
 
 [^v0.1.0]: /Artifact/Images/Evil_Eye_v0.1.0.png
+[^Blood Ceremony]: /Event/BloodCeremony.md
 [^Crone]: /Action/Crone.md
 [^Dark Ritual]: /Event/DarkRitual.md
 [^Sacrificial Pact]: /Event/SacrificialPact.md
