@@ -287,6 +287,7 @@
 [![Town Hall](/Project/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
 [![Trade Sanctions](/Project/Images/Trade_Sanctions_v0.2.0.png)](/Project/TradeSanctions.md)
 [![Trebuchet](/Project/Images/Trebuchet_v0.2.0.png)](/Project/Trebuchet.md)
+[![Uncover Secrets](/Project/Images/Uncover_Secrets_v0.1.0.png)](/Project/UncoverSecrets.md)
 [![Underground Tunnel](/Project/Images/Underground_Tunnel_v0.1.0.png)](/Project/UndergroundTunnel.md)
 [![Wonder](/Project/Images/Wonder_v0.3.0.png)](/Project/Wonder.md)
 
