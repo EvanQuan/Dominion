@@ -365,6 +365,10 @@
 
 </details>
 
+## Mechanics
+
+[Lock](/Mechanics/Lock.md)
+
 ## Game Modes
 
 [Shared Draft](/GameModes/SharedDraft.md)
