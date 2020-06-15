@@ -284,6 +284,7 @@
 [![Placer Mines](/Project/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
 [![Printing Press](/Project/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
 [![Reinforcements](/Project/Images/Reinforcements_v0.3.0.png)](/Project/Reinforcements.md)
+[![Sheltered Dock](/Project/Images/Sheltered_Dock_v0.1.0.png)](/Project/ShelteredDock.md)
 [![The Midas Touch](/Project/Images/The_Midas_Touch_v0.1.0.png)](/Project/TheMidasTouch.md)
 [![Theocracy](/Project/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
 [![Town Hall](/Project/Images/Town_Hall_v0.1.0.png)](/Project/TownHall.md)
