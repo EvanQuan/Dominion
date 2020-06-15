@@ -265,6 +265,7 @@
 [![Ancient Worship](/Project/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
 [![Asylum](/Project/Images/Asylum_v0.1.0.png)](/Project/Asylum.md)
 [![Campaign](/Project/Images/Campaign_v0.1.0.png)](/Project/Campaign.md)
+[![Capitol](/Project/Images/Capitol_v0.1.0.png)](/Project/Capitol.md)
 [![Copppersmith](/Project/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
 [![Crenellations](/Project/Images/Crenellations_v0.1.0.png)](/Project/Crenellations.md)
 [![Crypt](/Project/Images/Crypt_v0.1.0.png)](/Project/Crypt.md)
