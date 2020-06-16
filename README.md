@@ -142,6 +142,7 @@
 [![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
 [![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
+[![Thief](/Revisions/Images/Thief_v0.1.0.png)](/Revisions/Thief.md)
 [![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
 [![Woodcutter](/Revisions/Images/Woodcutter_v0.1.0.png)](/Revisions/Woodcutter.md)
 
