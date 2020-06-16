@@ -128,7 +128,7 @@
 
 [![Adventurer](/Revisions/Images/Adventurer_v0.1.0.png)](/Revisions/Adventurer.md)
 [![Beggar](/Revisions/Images/Beggar_v0.1.0.png)](/Revisions/Beggar.md)
-[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
+[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md) [![Chancellor](/Revisions/Images/Chancellor_v0.1.0.png)](/Revisions/Chancellor.md)
 [![Coppersmith](/Revisions/Images/Coppersmith_v0.1.0.png)](/Revisions/Coppersmith.md)
 [![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
 [![Feast](/Revisions/Images/Feast_v0.1.0.png)](/Revisions/Feast.md)
