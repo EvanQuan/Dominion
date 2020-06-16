@@ -10,7 +10,7 @@
 
 ---
 
-Comparable with [Squire][^Squire].
+Comparable to [Squire][^Squire].
 
 ## History
 
