@@ -221,6 +221,7 @@
 [![Refuge](/Event/Images/Refuge_v0.1.0.png)](/Event/Refuge.md)
 [![Repent](/Event/Images/Repent_v0.1.0.png)](/Event/Repent.md)
 [![Revise](/Event/Images/Revise_v0.1.0.png)](/Event/Revise.md)
+[![Roaming Caravan](/Event/Images/Roaming_Caravan_v0.1.0.png)](/Event/RoamingCaravan.md)
 [![Sacrificial Pact](/Event/Images/Sacrificial_Pact_v0.2.0.png)](/Event/SacrificialPact.md)
 [![Shady Deal](/Event/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
 [![Siege](/Event/Images/Siege_v0.2.0.png)](/Event/Siege.md)
