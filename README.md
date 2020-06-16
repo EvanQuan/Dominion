@@ -149,6 +149,7 @@
 [![Secret Chamber](/Revisions/Images/Secret_Chamber_v0.1.0.png)](/Revisions/SecretChamber.md)
 [![Spy](/Revisions/Images/Spy_v0.1.0.png)](/Revisions/Spy.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
+[![Taxman](/Revisions/Images/Taxman_v0.1.0.png)](/Revisions/Taxman.md)
 [![Thief](/Revisions/Images/Thief_v0.1.0.png)](/Revisions/Thief.md)
 [![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
 [![Woodcutter](/Revisions/Images/Woodcutter_v0.1.0.png)](/Revisions/Woodcutter.md)
