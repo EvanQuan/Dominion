@@ -141,6 +141,7 @@
 [![Philosopher's Stone](/Revisions/Images/Philosopher's_Stone_v0.1.0.png)](/Revisions/PhilosophersStone.md)
 [![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
 [![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
+[![Spy](/Revisions/Images/Spy_v0.1.0.png)](/Revisions/Spy.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
 [![Thief](/Revisions/Images/Thief_v0.1.0.png)](/Revisions/Thief.md)
 [![Transmute](/Revisions/Images/Transmute_v0.1.0.png)](/Revisions/Transmute.md)
