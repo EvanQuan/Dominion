@@ -144,6 +144,7 @@
 [![Philosopher's Stone](/Revisions/Images/Philosopher's_Stone_v0.1.0.png)](/Revisions/PhilosophersStone.md)
 [![Pillage](/Revisions/Images/Pillage_v0.1.0.png)](/Revisions/Pillage.md)
 [![Rebuild](/Revisions/Images/Rebuild_v0.1.0.png)](/Revisions/Rebuild.md)
+[![Scout](/Revisions/Images/Scout_v0.1.0.png)](/Revisions/Scout.md)
 [![Secret Chamber](/Revisions/Images/Secret_Chamber_v0.1.0.png)](/Revisions/SecretChamber.md)
 [![Spy](/Revisions/Images/Spy_v0.1.0.png)](/Revisions/Spy.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
