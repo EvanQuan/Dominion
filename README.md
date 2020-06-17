@@ -215,6 +215,7 @@
 [![Masquerade Ball](/Event/Images/Masquerade_Ball_v0.4.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Event/Images/Meld_v0.2.0.png)](/Event/Meld.md)
 [![Navigate](/Event/Images/Navigate_v0.1.0.png)](/Event/Navigate.md)
+[![Parade](/Event/Images/Parade_v0.1.0.png)](/Event/Parade.md)
 [![Peaceful Evening](/Event/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
 [![Perilous Journey](/Event/Images/Perilous_Journey_v0.2.0.png)](/Event/Perilous_Journey.md)
 [![Pirate's Curse](/Event/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
