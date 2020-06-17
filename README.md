@@ -9,6 +9,7 @@
 [![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
 [![Crone](/Action/Images/Crone_v0.1.0.png)](/Action/Crone.md)
 [![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
+[![Hillside Village](/Action/Images/Hillside_Village_v0.1.0.png)](/Action/HillsideVillage.md)
 [![Lord](/Action/Images/Lord_v0.1.0.png)](/Action/Lord.md)
 
 </details>
