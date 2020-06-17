@@ -32,6 +32,7 @@
 <details>
 <summary>Action - Duration</summary>
 
+[![Lakeside Village](/Action-Duration/Images/Lakeside_Village_v0.1.0.png)](/Action-Duration/LakesideVillage.md)
 [![Riverside Village](/Action-Duration/Images/Riverside_Village_v0.1.0.png)](/Action-Duration/RiversideVillage.md)
 
 </details>
