@@ -33,6 +33,7 @@
 <summary>Action - Attack - Looter</summary>
 
 [![Hill Giant](/Action-Attack-Looter/Images/Hill_Giant_v0.1.0.png)](/Action-Attack-Looter/HillGiant.md)
+[![Titan](/Action-Attack-Looter/Images/Titan_v0.1.0.png)](/Action-Attack-Looter/Titan.md)
 
 </details>
 
