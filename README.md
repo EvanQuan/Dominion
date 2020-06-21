@@ -173,6 +173,7 @@
 
 [![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
 [![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.2.0.png)](/Artifact/CrystalBall.md)
+[![Curse of Greed](/Artifact/Images/Curse_of_Greed_v0.1.0.png)](/Artifact/CurseOfGreed.md)
 [![Evil Eye](/Artifact/Images/Evil_Eye_v0.1.0.png)](/Artifact/EvilEye.md)
 [![Hand of Midas](/Artifact/Images/Hand_of_Midas_v0.2.png)](/Artifact/HandOfMidas.md)
 [![Jousting Lance](/Artifact/Images/Jousting_Lance_v0.1.0.png)](/Artifact/JoustingLance.md)
