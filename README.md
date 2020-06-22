@@ -240,6 +240,7 @@
 [![Roaming Caravan](/Event/Images/Roaming_Caravan_v0.1.0.png)](/Event/RoamingCaravan.md)
 [![Sacrificial Pact](/Event/Images/Sacrificial_Pact_v0.2.0.png)](/Event/SacrificialPact.md)
 [![Safeguard](/Event/Images/Safeguard_v0.1.0.png)](/Event/Safeguard.md)
+[![Search Party](/Event/Images/Search_Party_v0.1.0.png)](/Event/SearchParty.md)
 [![Shady Deal](/Event/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
 [![Siege](/Event/Images/Siege_v0.2.0.png)](/Event/Siege.md)
 [![Smuggling Ring](/Event/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
