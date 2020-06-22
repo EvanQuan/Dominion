@@ -186,7 +186,7 @@
 <details>
 <summary>Event</summary>
 
-[![Ambush](/Event/Images/Ambush_v0.3.0.png)](/Event/Ambush.md)
+[![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
 [![Bewitch](/Event/Images/Bewitch_v0.1.0.png)](/Event/Bewitch.md)
 [![Blockade](/Event/Images/Blockade_v0.2.0.png)](/Event/Blockade.md)
