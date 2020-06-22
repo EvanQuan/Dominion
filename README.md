@@ -246,6 +246,7 @@
 [![Street Bargain](/Event/Images/Street_Bargain_v0.1.0.png)](/Event/StreetBargain.md)
 [![Surrender](/Event/Images/Surrender_v0.1.0.png)](/Event/Surrender.md)
 [![Tarot Reading](/Event/Images/Tarot_Reading_v0.3.0.png)](/Event/TarotReading.md)
+[![Travelling Bath House](/Event/Images/Travelling_Bath_House_v0.1.0.png)](/Event/TravellingBathHouse.md)
 [![Treasure Hunt](/Event/Images/Treasure_Hunt_v0.1.0.png)](/Event/TreasureHunt.md)
 [![Trek](/Event/Images/Trek_v0.2.0.png)](/Event/Trek.md)
 [![Unearthed Riches](/Event/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
