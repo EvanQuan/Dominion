@@ -11,6 +11,7 @@
 [![Forest Path](/Action/Images/Forest_Path_v0.1.png)](/Action/ForestPath.md)
 [![Hillside Village](/Action/Images/Hillside_Village_v0.1.0.png)](/Action/HillsideVillage.md)
 [![Lord](/Action/Images/Lord_v0.1.0.png)](/Action/Lord.md)
+[![Mining Camp](/Action/Images/Mining_Camp_v0.1.0.png)](/Action/MiningCamp.md)
 
 </details>
 
