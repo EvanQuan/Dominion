@@ -253,6 +253,7 @@
 [![Usurp the Duke](/Event/Images/Usurp_the_Duke_v0.1.0.png)](/Event/UsurpTheDuke.md)
 [![Volley](/Event/Images/Volley_v0.1.0.png)](/Event/Volley.md)
 [![Voyage](/Event/Images/Voyage_v0.1.0.png)](/Event/Voyage.md)
+[![Winter Patrol](/Event/Images/Winter_Patrol_v0.1.0.png)](/Event/WinterPatrol.md)
 
 </details>
 <details>
