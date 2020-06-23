@@ -159,7 +159,7 @@
 [![Saboteur](/Revisions/Images/Saboteur_v0.1.0.png)](/Revisions/Saboteur.md)
 [![Scout](/Revisions/Images/Scout_v0.1.0.png)](/Revisions/Scout.md)
 [![Secret Chamber](/Revisions/Images/Secret_Chamber_v0.1.0.png)](/Revisions/SecretChamber.md)
-[![Spy](/Revisions/Images/Spy_v0.1.0.png)](/Revisions/Spy.md)
+[![Spy](/Revisions/Images/Spy_v0.2.0.png)](/Revisions/Spy.md)
 [![Tax](/Revisions/Images/Tax_v0.1.0.png)](/Revisions/Tax.md)
 [![Taxman](/Revisions/Images/Taxman_v0.1.0.png)](/Revisions/Taxman.md)
 [![Thief](/Revisions/Images/Thief_v0.1.0.png)](/Revisions/Thief.md)
