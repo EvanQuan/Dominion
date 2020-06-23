@@ -234,6 +234,7 @@
 [![Prohibition](/Event/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
 [![Ransack](/Event/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
 [![Recruit](/Event/Images/Recruit_v0.1.0.png)](/Event/Recruit.md)
+[![Reduce to Ashes](/Event/Images/Reduce_to_Ashes_v0.1.0.png)](/Event/ReduceToAshes.md)
 [![Refuge](/Event/Images/Refuge_v0.1.0.png)](/Event/Refuge.md)
 [![Repent](/Event/Images/Repent_v0.1.0.png)](/Event/Repent.md)
 [![Reserve](/Event/Images/Reserve_v0.1.0.png)](/Event/Reserve.md)
