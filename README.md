@@ -299,7 +299,7 @@
 <details>
 <summary>Project</summary>
 
-[![Ancient Worship](/Project/Images/Ancient_Worship_v0.1.0.png)](/Project/AncientWorship.md)
+[![Ancient Temple](/Project/Images/Ancient_Temple_v0.2.0.png)](/Project/AncientTemple.md)
 [![Asylum](/Project/Images/Asylum_v0.1.0.png)](/Project/Asylum.md)
 [![Bustling Market](/Project/Images/Bustling_Market_v0.1.0.png)](/Project/BustlingMarket.md)
 [![Campaign](/Project/Images/Campaign_v0.1.0.png)](/Project/Campaign.md)
