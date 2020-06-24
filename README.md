@@ -331,6 +331,7 @@
 [![Trebuchet](/Project/Images/Trebuchet_v0.2.0.png)](/Project/Trebuchet.md)
 [![Uncover Secrets](/Project/Images/Uncover_Secrets_v0.1.0.png)](/Project/UncoverSecrets.md)
 [![Underground Tunnel](/Project/Images/Underground_Tunnel_v0.1.0.png)](/Project/UndergroundTunnel.md)
+[![Underworld Gate](/Project/Images/Underworld_Gate_v0.1.0.png)](/Project/UnderworldGate.md)
 [![Wonder](/Project/Images/Wonder_v0.3.0.png)](/Project/Wonder.md)
 
 </details>
