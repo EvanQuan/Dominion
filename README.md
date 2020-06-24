@@ -413,7 +413,19 @@
 
 ## Mechanics
 
+<details>
+<summary>Mats</summary>
+
+[![Export](/Mechanics/Images/Export.png)](/Mechanics/Export.md)
+
+</details>
+
+<details>
+<summary>Keywords</summary>
+
 [Lock](/Mechanics/Lock.md)
+
+</details>
 
 ## Game Modes
 
