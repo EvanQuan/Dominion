@@ -282,7 +282,6 @@
 <summary>Landmark</summary>
 
 [![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.1.png)](/Landmark/BarrenWasteland.md)
-[![Cottage](/Landmark/Images/Cottage_v0.1.png)](/Landmark/Cottage.md)
 [![Crone's Hut](/Landmark/Images/Crone's_Hut_v0.1.png)](/Landmark/CronesHut.md)
 [![Foundry](/Landmark/Images/Foundry_v0.2.0.png)](/Landmark/Foundry.md)
 [![Guild Hall](/Landmark/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
@@ -312,6 +311,7 @@
 [![Campaign](/Project/Images/Campaign_v0.1.0.png)](/Project/Campaign.md)
 [![Capitol](/Project/Images/Capitol_v0.1.0.png)](/Project/Capitol.md)
 [![Copppersmith](/Project/Images/Coppersmith_v0.2.0.png)](/Project/Coppersmith.md)
+[![Cottage](/Project/Images/Cottage_v0.2.0.png)](/Project/Cottage.md)
 [![Crenellations](/Project/Images/Crenellations_v0.1.0.png)](/Project/Crenellations.md)
 [![Crypt](/Project/Images/Crypt_v0.1.0.png)](/Project/Crypt.md)
 [![Dry Dock](/Project/Images/Dry_Dock_v0.1.0.png)](/Project/DryDock.md)
