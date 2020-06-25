@@ -86,8 +86,14 @@
 <summary>Curse - Reaction</summary>
 
 [![Brain Sap](/Curse-Reaction/Images/Brain_Sap_v0.2.0.png)](/Curse-Reaction/BrainSap.md)
-[![Decay](/Curse-Reaction/Images/Decay_v0.2.0.png)](/Curse-Reaction/Decay.md)
 [![Impending Doom](/Curse-Reaction/Images/Impending_Doom_v0.2.0.png)](/Curse-Reaction/ImpendingDoom.md)
+
+</details>
+
+<details>
+<summary>Curse - Reaction - Looter</summary>
+
+[![Decay](/Curse-Reaction-Looter/Images/Decay_v0.2.0.png)](/Curse-Reaction-Looter/Decay.md)
 
 </details>
 
