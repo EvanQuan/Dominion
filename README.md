@@ -291,7 +291,7 @@
 [![Roadway](/Landmark/Images/Roadway_v0.1.0.png)](/Landmark/Roadway.md)
 [![Rubble](/Landmark/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
 [![Secluded Temple](/Landmark/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
-[![Shipwreck](/Landmark/Images/Shipwreck_v0.2.0.png)](/Landmark/Shipwreck.md)
+[![Shipwreck](/Landmark/Images/Shipwreck_v0.3.0.png)](/Landmark/Shipwreck.md)
 
 </details>
 
