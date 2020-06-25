@@ -1,9 +1,9 @@
 # Custom Dominion Cards
 
-## Cards
+## Cards (59)
 
 <details>
-<summary>Action</summary>
+<summary>Action (7)</summary>
 
 [![Blacksmith](/Action/Images/Blacksmith_v0.2.0.png)](/Action/Blacksmith.md)
 [![Clairvoyant](/Action/Images/Clairvoyant_v0.1.0.png)](/Action/Clairvoyant.md)
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary>Action - Attack</summary>
+<summary>Action - Attack (2)</summary>
 
 [![Greedy Baron](/Action-Attack/Images/Greedy_Baron_v0.1.0.png)](/Action-Attack/GreedyBaron.md)
 [![Petard](/Action-Attack/Images/Petard_v0.2.0.png)](/Action-Attack/Petard.md)
@@ -24,14 +24,14 @@
 </details>
 
 <details>
-<summary>Action - Attack - Duration</summary>
+<summary>Action - Attack - Duration (1)</summary>
 
 [![Longbowman](/Action-Attack-Duration/Images/Longbowman_v0.1.0.png)](/Action-Attack-Duration/Longbowman.md)
 
 </details>
 
 <details>
-<summary>Action - Attack - Looter</summary>
+<summary>Action - Attack - Looter (2)</summary>
 
 [![Hill Giant](/Action-Attack-Looter/Images/Hill_Giant_v0.1.0.png)](/Action-Attack-Looter/HillGiant.md)
 [![Titan](/Action-Attack-Looter/Images/Titan_v0.2.0.png)](/Action-Attack-Looter/Titan.md)
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary>Action - Duration</summary>
+<summary>Action - Duration (3)</summary>
 
 [![Desert Village](/Action-Duration/Images/Desert_Village_v0.1.0.png)](/Action-Duration/DesertVillage.md)
 [![Lakeside Village](/Action-Duration/Images/Lakeside_Village_v0.1.0.png)](/Action-Duration/LakesideVillage.md)
@@ -48,42 +48,42 @@
 </details>
 
 <details>
-<summary>Action - Duration - Victory</summary>
+<summary>Action - Duration - Victory (1)</summary>
 
 [![Rice Field](/Action-Duration-Victory/Images/Rice_Field_v0.1.png)](/Action-Duration-Victory/RiceField.md)
 
 </details>
 
 <details>
-<summary>Action - Looter</summary>
+<summary>Action - Looter (1)</summary>
 
 [![Angry Mob](/Action-Looter/Images/Angry_Mob_v0.1.0.png)](/Action-Looter/AngryMob.md)
 
 </details>
 
 <details>
-<summary>Action - Reaction</summary>
+<summary>Action - Reaction (1)</summary>
 
 [![Stronghold](/Action-Reaction/Images/Stronghold_v0.1.0.png)](/Action-Reaction/Stronghold.md)
 
 </details>
 
 <details>
-<summary>Action - Victory</summary>
+<summary>Action - Victory (1)</summary>
 
 [![Ossuary](/Action-Victory/Images/Ossuary_v0.2.0.png)](/Action-Victory/Ossuary.md)
 
 </details>
 
 <details>
-<summary>Curse</summary>
+<summary>Curse (1)</summary>
 
 [![Eternal Curse](/Curse/Images/Eternal_Curse_v0.2.0.png)](/Curse/EternalCurse.md)
 
 </details>
 
 <details>
-<summary>Curse - Reaction</summary>
+<summary>Curse - Reaction (2)</summary>
 
 [![Brain Sap](/Curse-Reaction/Images/Brain_Sap_v0.2.0.png)](/Curse-Reaction/BrainSap.md)
 [![Impending Doom](/Curse-Reaction/Images/Impending_Doom_v0.2.0.png)](/Curse-Reaction/ImpendingDoom.md)
@@ -91,14 +91,14 @@
 </details>
 
 <details>
-<summary>Curse - Reaction - Looter</summary>
+<summary>Curse - Reaction - Looter (1)</summary>
 
 [![Decay](/Curse-Reaction-Looter/Images/Decay_v0.2.0.png)](/Curse-Reaction-Looter/Decay.md)
 
 </details>
 
 <details>
-<summary>Treasure</summary>
+<summary>Treasure (2)</summary>
 
 [![Doubloons](/Treasure/Images/Doubloons_v0.3.0.png)](/Treasure/Doubloons.md)
 [![Stolen Jewels](/Treasure/Images/Stolen_Jewels_v0.4.0.png)](/Treasure/StolenJewels.md)
@@ -106,28 +106,28 @@
 </details>
 
 <details>
-<summary>Treasure - Attack - Looter</summary>
+<summary>Treasure - Attack - Looter (1)</summary>
 
 [![Dragon's Hoard](/Treasure-Attack-Looter/Images/Dragon's_Hoard_v0.2.1.png)](/Treasure-Attack-Looter/DragonsHoard.md)
 
 </details>
 
 <details>
-<summary>Treasure - Duration</summary>
+<summary>Treasure - Duration (1)</summary>
 
 [![Buried Treasure](/Treasure-Duration/Images/Buried_Treasure_v0.2.0.png)](/Treasure-Duration/BuriedTreasure.md)
 
 </details>
 
 <details>
-<summary>Treasure - Reaction</summary>
+<summary>Treasure - Reaction (1)</summary>
 
 [![Foreign Coin](/Treasure-Reaction/Images/Foreign_Coin_v0.2.0.png)](/Treasure-Reaction/ForeignCoin.md)
 
 </details>
 
 <details>
-<summary>Victory</summary>
+<summary>Victory (2)</summary>
 
 [![Beach](/Victory/Images/Beach_v0.1.0.png)](/Victory/Beach.md)
 [![Swamp](/Victory/Images/Swamp_v0.1.png)](/Victory/Swamp.md)
@@ -135,14 +135,14 @@
 </details>
 
 <details>
-<summary>Victory - Reaction</summary>
+<summary>Victory - Reaction (2)</summary>
 
 [![Plains](/Victory-Reaction/Images/Plains_v0.1.png)](/Victory-Reaction/Plains.md)
 
 </details>
 
 <details>
-<summary>Revisions</summary>
+<summary>Revisions (27)</summary>
 
 [![Adventurer](/Revisions/Images/Adventurer_v0.1.0.png)](/Revisions/Adventurer.md)
 [![Beggar](/Revisions/Images/Beggar_v0.1.0.png)](/Revisions/Beggar.md)
@@ -174,10 +174,10 @@
 
 </details>
 
-## Landscapes
+## Landscapes (187)
 
 <details>
-<summary>Artifact</summary>
+<summary>Artifact (8)</summary>
 
 [![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
 [![Crystal Ball](/Artifact/Images/Crystal_Ball_v0.2.0.png)](/Artifact/CrystalBall.md)
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event</summary>
+<summary>Event (74)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -269,7 +269,7 @@
 
 </details>
 <details>
-<summary>Exchange</summary>
+<summary>Exchange (4)</summary>
 
 [![Borrow](/Exchange/Images/Borrow_v0.1.0.png)](/Exchange/Borrow.md)
 [![Confess](/Exchange/Images/Confess_v0.1.0.png)](/Exchange/Confess.md)
@@ -278,7 +278,7 @@
 
 </details>
 <details>
-<summary>Landmark</summary>
+<summary>Landmark (12)</summary>
 
 [![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.2.0.png)](/Landmark/BarrenWasteland.md)
 [![Blockhouse](/Landmark/Images/Blockhouse_v0.1.0.png)](/Landmark/Blockhouse.md)
@@ -296,7 +296,7 @@
 </details>
 
 <details>
-<summary>Law</summary>
+<summary>Law (2)</summary>
 
 [![Restoration](/Law/Images/Restoration_v0.1.0.png)](/Law/Restoration.md)
 [![Trade Sanctions](/Law/Images/Trade_Sanctions_v0.1.0.png)](/Law/TradeSanctions.md)
@@ -304,7 +304,7 @@
 </details>
 
 <details>
-<summary>Project</summary>
+<summary>Project (34)</summary>
 
 [![Ancient Temple](/Project/Images/Ancient_Temple_v0.2.0.png)](/Project/AncientTemple.md)
 [![Asylum](/Project/Images/Asylum_v0.1.0.png)](/Project/Asylum.md)
@@ -344,7 +344,7 @@
 </details>
 
 <details>
-<summary>Quest</summary>
+<summary>Quest (9)</summary>
 
 [![Demonic Pact](/Quest/Images/Demonic_Pact_v0.4.0.png)](/Quest/DemonicPact.md)
 [![Desert Journey](/Quest/Images/Desert_Journey_v0.3.3.png)](/Quest/DesertJourney.md)
@@ -359,7 +359,7 @@
 </details>
 
 <details>
-<summary>Threat</summary>
+<summary>Threat (7)</summary>
 
 [![Bandits](/Threat/Images/Bandits_v0.1.0.png)](/Threat/Bandits.md)
 [![Blizzard](/Threat/Images/Blizzard_v0.1.0.png)](/Threat/Blizzard.md)
@@ -371,7 +371,7 @@
 
 </details>
 <details>
-<summary>Way</summary>
+<summary>Way (6)</summary>
 
 [![Way of the Bat](/Way/Images/Way_of_the_Bat_v0.1.0.png)](/Way/WayOfTheBat.md)
 [![Way of the Bee](/Way/Images/Way_of_the_Bee_v0.2.0.png)](/Way/WayOfTheBee.md)
@@ -383,7 +383,7 @@
 </details>
 
 <details>
-<summary>Weather</summary>
+<summary>Weather (31)</summary>
 
 [![Aurora Borealis](/Weather/Images/Aurora_Borealis_v0.1.0.png)](/Weather/AuroraBorealis.md)
 [![Autumn Breeze](/Weather/Images/Autumn_Breeze_v0.1.0.png)](/Weather/AutumnBreeze.md)
@@ -419,10 +419,10 @@
 
 </details>
 
-## Mechanics
+## Mechanics (3)
 
 <details>
-<summary>Mats</summary>
+<summary>Mats (2)</summary>
 
 [![Export](/Mechanics/Images/Export.png)](/Mechanics/Export.md)
 
@@ -431,7 +431,7 @@
 </details>
 
 <details>
-<summary>Keywords</summary>
+<summary>Keywords (1)</summary>
 
 [Lock](/Mechanics/Lock.md)
 
