@@ -287,7 +287,7 @@
 [![Foundry](/Landmark/Images/Foundry_v0.2.0.png)](/Landmark/Foundry.md)
 [![Guild Hall](/Landmark/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
 [![Infested Sewers](/Landmark/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
-[![Jungle Ruins](/Landmark/Images/Jungle_Ruins_v0.1.0.png)](/Landmark/JungleRuins.md)
+[![Jungle Ruins](/Landmark/Images/Jungle_Ruins_v0.2.0.png)](/Landmark/JungleRuins.md)
 [![Roadway](/Landmark/Images/Roadway_v0.1.0.png)](/Landmark/Roadway.md)
 [![Rubble](/Landmark/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
 [![Secluded Temple](/Landmark/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
