@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (188)
+## Landscapes (190)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -305,7 +305,7 @@
 </details>
 
 <details>
-<summary>Project (34)</summary>
+<summary>Project (36)</summary>
 
 [![Ancient Temple](/Project/Images/Ancient_Temple_v0.2.0.png)](/Project/AncientTemple.md)
 [![Asylum](/Project/Images/Asylum_v0.1.0.png)](/Project/Asylum.md)
@@ -326,10 +326,11 @@
 [![Irrigation](/Project/Images/Irrigation_v0.1.0.png)](/Project/Irrigation.md)
 [![Marketplace](/Project/Images/Marketplace_v0.2.0.png)](/Project/Marketplace.md)
 [![Mercantilism](/Project/Images/Mercantilism_v0.3.0.png)](/Project/Mercantilism.md)
-[![Raiding Party](/Project/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
 [![Placer Mines](/Project/Images/Placer_Mines_v0.1.0.png)](/Project/PlacerMines.md)
 [![Printing Press](/Project/Images/Printing_Press_v0.1.0.png)](/Project/PrintingPress.md)
+[![Raiding Party](/Project/Images/Raiding_Party_v0.2.0.png)](/Project/RaidingParty.md)
 [![Reinforcements](/Project/Images/Reinforcements_v0.3.0.png)](/Project/Reinforcements.md)
+[![Restoration](/Project/Images/Restoration_v0.1.0.png)](/Project/Restoration.md)
 [![Sheltered Dock](/Project/Images/Sheltered_Dock_v0.1.0.png)](/Project/ShelteredDock.md)
 [![The Midas Touch](/Project/Images/The_Midas_Touch_v0.1.0.png)](/Project/TheMidasTouch.md)
 [![Theocracy](/Project/Images/Theocracy_v0.1.0.png)](/Project/Theocracy.md)
