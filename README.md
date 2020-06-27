@@ -280,7 +280,7 @@
 <details>
 <summary>Landmark (13)</summary>
 
-[![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.2.0.png)](/Landmark/BarrenWasteland.md)
+[![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.3.0.png)](/Landmark/BarrenWasteland.md)
 [![Blockhouse](/Landmark/Images/Blockhouse_v0.1.0.png)](/Landmark/Blockhouse.md)
 [![Crone's Hut](/Landmark/Images/Crone's_Hut_v0.1.png)](/Landmark/CronesHut.md)
 [![Foundry](/Landmark/Images/Foundry_v0.2.0.png)](/Landmark/Foundry.md)
