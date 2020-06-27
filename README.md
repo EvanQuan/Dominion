@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (190)
+## Landscapes (191)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event (74)</summary>
+<summary>Event (75)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -223,6 +223,7 @@
 [![Horse Fair](/Event/Images/Horse_Fair_v0.1.0.png)](/Event/HorseFair.md)
 [![Inspire Morale](/Event/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
 [![Invade](/Event/Images/Invade_v0.1.0.png)](/Event/Invade.md)
+[![Isolated Retreat](/Event/Images/Isolated_Retreat_v0.1.0.png)](/Event/IsolatedRetreat.md)
 [![Joust](/Event/Images/Joust_v0.4.0.png)](/Event/Joust.md)
 [![Lone Knight](/Event/Images/Lone_Knight_v0.2.0.png)](/Event/LoneKnight.md)
 [![Lone Rider](/Event/Images/Lone_Rider_v0.1.0.png)](/Event/LoneRider.md)
