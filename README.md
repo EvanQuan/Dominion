@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (187)
+## Landscapes (188)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -278,7 +278,7 @@
 
 </details>
 <details>
-<summary>Landmark (12)</summary>
+<summary>Landmark (13)</summary>
 
 [![Barren Wasteland](/Landmark/Images/Barren_Wasteland_v0.2.0.png)](/Landmark/BarrenWasteland.md)
 [![Blockhouse](/Landmark/Images/Blockhouse_v0.1.0.png)](/Landmark/Blockhouse.md)
@@ -287,6 +287,7 @@
 [![Guild Hall](/Landmark/Images/Guild_Hall_v0.2.0.png)](/Landmark/GuildHall.md)
 [![Infested Sewers](/Landmark/Images/Infested_Sewers_v0.1.0.png)](/Landmark/InfestedSewers.md)
 [![Jungle Ruins](/Landmark/Images/Jungle_Ruins_v0.2.0.png)](/Landmark/JungleRuins.md)
+[![Monolith](/Landmark/Images/Monolith_v0.1.0.png)](/Landmark/Monolith.md)
 [![Roadway](/Landmark/Images/Roadway_v0.1.0.png)](/Landmark/Roadway.md)
 [![Rubble](/Landmark/Images/Rubble_v0.1.1.png)](/Landmark/Rubble.md)
 [![Secluded Temple](/Landmark/Images/Secluded_Temple_v0.1.0.png)](/Landmark/SecludedTemple.md)
