@@ -264,7 +264,7 @@
 [![Travelling Bath House](/Event/Images/Travelling_Bath_House_v0.1.0.png)](/Event/TravellingBathHouse.md)
 [![Treasure Hunt](/Event/Images/Treasure_Hunt_v0.1.0.png)](/Event/TreasureHunt.md)
 [![Trek](/Event/Images/Trek_v0.2.0.png)](/Event/Trek.md)
-[![Unearthed Riches](/Event/Images/Unearthed_Riches_v0.1.png)](/Event/Unearthed_Riches.md)
+[![Unearthed Riches](/Event/Images/Unearthed_Riches_v0.1.0.png)](/Event/Unearthed_Riches.md)
 [![Usurp the Duke](/Event/Images/Usurp_the_Duke_v0.2.0.png)](/Event/UsurpTheDuke.md)
 [![Volley](/Event/Images/Volley_v0.1.0.png)](/Event/Volley.md)
 [![Voyage](/Event/Images/Voyage_v0.1.0.png)](/Event/Voyage.md)
