@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (191)
+## Landscapes (192)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event (75)</summary>
+<summary>Event (76)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -220,6 +220,7 @@
 [![Hidden Cache](/Event/Images/Hidden_Cache_v0.1.0.png)](/Event/HiddenCache.md)
 [![Hiding the Loot](/Event/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
 [![Highway Robbery](/Event/Images/Highway_Robbery_v0.2.0.png)](/Event/HighwayRobbery.md)
+[![Hire a Local](/Event/Images/Hire_a_Local_v0.1.0.png)](/Event/HireALocal.md)
 [![Horse Fair](/Event/Images/Horse_Fair_v0.1.0.png)](/Event/HorseFair.md)
 [![Inspire Morale](/Event/Images/Inspire_Morale_v0.2.0.png)](/Event/InspireMorale.md)
 [![Invade](/Event/Images/Invade_v0.1.0.png)](/Event/Invade.md)
