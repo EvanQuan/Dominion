@@ -219,7 +219,7 @@
 [![Herd](/Event/Images/Herd_v0.1.0.png)](/Event/Herd.md)
 [![Heroic Sacrifice](/Event/Images/Heroic_Sacrifice_v0.3.0.png)](/Event/HeroicSacrifice.md)
 [![Hidden Cache](/Event/Images/Hidden_Cache_v0.1.0.png)](/Event/HiddenCache.md)
-[![Hiding the Loot](/Event/Images/Hiding_the_Loot_v0.1.png)](/Event/HidingTheLoot.md)
+[![Hiding the Loot](/Event/Images/Hiding_the_Loot_v0.1.0.png)](/Event/HidingTheLoot.md)
 [![Highway Robbery](/Event/Images/Highway_Robbery_v0.2.0.png)](/Event/HighwayRobbery.md)
 [![Hire a Local](/Event/Images/Hire_a_Local_v0.1.0.png)](/Event/HireALocal.md)
 [![Horse Fair](/Event/Images/Horse_Fair_v0.1.0.png)](/Event/HorseFair.md)
