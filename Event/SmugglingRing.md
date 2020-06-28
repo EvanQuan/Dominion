@@ -2,6 +2,14 @@
 
 ![v0.1.0][^v0.1.0]
 
+---
+
+[Card][^Card]
+
+[Illustration][^Illustration]
+
+---
+
 Event equivalent of [Black Market][^Black Market].
 
 ## FAQ
@@ -47,3 +55,5 @@ and adds an extra level of decision making during the Buy phase.
 [^Trader]: http://wiki.dominionstrategy.com/index.php/Trader
 [^The Underground v0.1.0]: /Project/Images/The_Underground_v0.1.0.png
 [^v0.1.0]: /Event/Images/Smuggling_Ring_v0.1.0.png
+[^Card]: https://shardofhonor.github.io/dominion-card-generator/?title=Smuggling%20Ring&description=%2B1%20Buy.%20Reveal%20the%20top%203%20cards%20of%20the%20Smuggling%20Ring%20deck.%20You%20may%20buy%20any%20number%20of%20them%20this%20turn.%20At%20the%20end%20of%20your%20turn%2C%20put%20the%20rest%20on%20the%20bottom%20of%20the%20Smuggling%20Ring%20deck%20in%20any%20order.%0A-%0ASetup%3A%20Make%20a%20Smuggling%20Ring%20deck%20out%20of%20different%20unused%20Kingdom%20cards.&type=Event&credit=&creator=v0.1.0%20Evan%20Quan&price=%241&preview=&type2=&color2split=1&boldkeys=&picture-x=0&picture-y=0&picture-zoom=1&picture=https%3A%2F%2F2.bp.blogspot.com%2F-Rc2C1VXKuug%2FV1a2tg_BJ5I%2FAAAAAAAACXc%2FmJVzC2l2rT0AYRFK8RPm_jMqTRp3BIjoQCLcB%2Fs1600%2Fblackmarket.jpg&expansion=&custom-icon=&color0=0&color1=0&size=1
+[^Illustration]: https://2.bp.blogspot.com/-Rc2C1VXKuug/V1a2tg_BJ5I/AAAAAAAACXc/mJVzC2l2rT0AYRFK8RPm_jMqTRp3BIjoQCLcB/s1600/blackmarket.jpg
