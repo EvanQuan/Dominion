@@ -238,7 +238,7 @@
 [![Parade](/Event/Images/Parade_v0.1.0.png)](/Event/Parade.md)
 [![Peaceful Evening](/Event/Images/Peaceful_Evening_v0.1.0.png)](/Event/Peaceful_Evening.md)
 [![Perilous Journey](/Event/Images/Perilous_Journey_v0.2.0.png)](/Event/Perilous_Journey.md)
-[![Pirate's Curse](/Event/Images/Pirate's_Curse_v0.1.0.png)](/Event/PiratesCurse.md)
+[![Pirate's Curse](/Event/Images/Pirate's_Curse_v0.2.0.png)](/Event/PiratesCurse.md)
 [![Prohibition](/Event/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
 [![Rain Fire](/Event/Images/Rain_Fire_v0.2.0.png)](/Event/RainFire.md)
 [![Ransack](/Event/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
