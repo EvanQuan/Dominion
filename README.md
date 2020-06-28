@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (194)
+## Landscapes (195)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event (78)</summary>
+<summary>Event (79)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -254,6 +254,7 @@
 [![Safeguard](/Event/Images/Safeguard_v0.2.0.png)](/Event/Safeguard.md)
 [![Search Party](/Event/Images/Search_Party_v0.2.0.png)](/Event/SearchParty.md)
 [![Shady Deal](/Event/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
+[![Shopping Spree](/Event/Images/Shopping_Spree_v0.1.0.png)](/Event/ShoppingSpree.md)
 [![Siege](/Event/Images/Siege_v0.2.0.png)](/Event/Siege.md)
 [![Smuggling Ring](/Event/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
 [![Stiff Loan](/Event/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
