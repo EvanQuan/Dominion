@@ -241,7 +241,7 @@
 [![Pirate's Curse](/Event/Images/Pirate's_Curse_v0.2.0.png)](/Event/PiratesCurse.md)
 [![Prohibition](/Event/Images/Prohibition_v0.1.0.png)](/Event/Prohibition.md)
 [![Rain Fire](/Event/Images/Rain_Fire_v0.2.0.png)](/Event/RainFire.md)
-[![Ransack](/Event/Images/Ransack_v0.2.0.png)](/Event/Ransack.md)
+[![Ransack](/Event/Images/Ransack_v0.3.0.png)](/Event/Ransack.md)
 [![Recruit](/Event/Images/Recruit_v0.1.0.png)](/Event/Recruit.md)
 [![Reduce to Ashes](/Event/Images/Reduce_to_Ashes_v0.1.0.png)](/Event/ReduceToAshes.md)
 [![Refuge](/Event/Images/Refuge_v0.1.0.png)](/Event/Refuge.md)
