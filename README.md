@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (193)
+## Landscapes (194)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event (77)</summary>
+<summary>Event (78)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -268,6 +268,7 @@
 [![Volley](/Event/Images/Volley_v0.1.0.png)](/Event/Volley.md)
 [![Voyage](/Event/Images/Voyage_v0.1.0.png)](/Event/Voyage.md)
 [![Wetlands Trek](/Event/Images/Wetlands_Trek_v0.1.0.png)](/Event/WetlandsTrek.md)
+[![Winter Hunt](/Event/Images/Winter_Hunt_v0.1.0.png)](/Event/WinterHunt.md)
 [![Winter Patrol](/Event/Images/Winter_Patrol_v0.2.0.png)](/Event/WinterPatrol.md)
 
 </details>
