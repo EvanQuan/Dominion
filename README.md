@@ -152,7 +152,7 @@
 [![Feast](/Revisions/Images/Feast_v0.1.0.png)](/Revisions/Feast.md)
 [![Great Hall](/Revisions/Images/Great_Hall_v0.1.0.png)](/Revisions/GreatHall.md)
 [![Duchess](/Revisions/Images/Duchess_v0.1.0.png)](/Revisions/Duchess.md)
-[![Harem](/Revisions/Images/Harem_v0.1.0.png)](/Revisions/Harem.md)
+[![Harem](/Revisions/Images/Harem_v0.1.1.png)](/Revisions/Harem.md)
 [![Harvest](/Revisions/Images/Harvest_v0.1.0.png)](/Revisions/Harvest.md)
 [![Island](/Revisions/Images/Island_v0.1.0.png)](/Revisions/Island.md)
 [![Mandarin](/Revisions/Images/Mandarin_v0.1.0.png)](/Revisions/Mandarin.md)
