@@ -354,7 +354,7 @@
 <details>
 <summary>Quest (9)</summary>
 
-[![Demonic Pact](/Quest/Images/Demonic_Pact_v0.4.0.png)](/Quest/DemonicPact.md)
+[![Demonic Pact](/Quest/Images/Demonic_Pact_v0.5.0.png)](/Quest/DemonicPact.md)
 [![Desert Journey](/Quest/Images/Desert_Journey_v0.3.3.png)](/Quest/DesertJourney.md)
 [![Expand Territory](/Quest/Images/Expand_Territory_v0.1.2.png)](/Quest/ExpandTerritory.md)
 [![Hire a Local](/Quest/Images/Hire_a_Local_v0.2.0.png)](/Quest/HireALocal.md)
