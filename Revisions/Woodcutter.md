@@ -12,6 +12,14 @@
 
 Comparable to [Squire][^Squire].
 
+The original idea was to keep the cost at **3 Coins**, which would still make
+it a playable Action comparable to other **3 Coin** cost Actions. By
+decreasing the cost to **2 Coins**, Woodcutter becomes significantly
+stronger, becoming far more favourable than Silver. However, it still requires
+the **+Actions** needed to support getting multiple copies, meaning Big Money
+would not benefit much (if at all) from the price decrease. On the other
+hand, engines may find it easier to buy additional Woodcutters as payload.
+
 ## History
 
 ### v0.1.0
