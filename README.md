@@ -360,7 +360,7 @@
 [![Hire a Local](/Quest/Images/Hire_a_Local_v0.2.1.png)](/Quest/HireALocal.md)
 [![Hunt for Bounty](/Quest/Images/Hunt_for_Bounty_v0.4.0.png)](/Quest/HuntForBounty.md)
 [![Isolated Retreat](/Quest/Images/Isolated_Retreat_v0.2.1.png)](/Quest/IsolatedRetreat.md)
-[![Shopping Spree](/Quest/Images/Shopping_Spree_v0.1.1.png)](/Quest/ShoppingSpree.md)
+[![Shopping Spree](/Quest/Images/Shopping_Spree_v0.1.2.png)](/Quest/ShoppingSpree.md)
 [![Take Hostages](/Quest/Images/Take_Hostages_v0.1.1.png)](/Quest/TakeHostages.md)
 [![Winter Hunt](/Quest/Images/Winter_Hunt_v0.4.0.png)](/Quest/WinterHunt.md)
 
