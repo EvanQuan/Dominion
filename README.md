@@ -232,7 +232,7 @@
 [![Lost Gold](/Event/Images/Lost_Gold_v0.1.0.png)](/Event/LostGold.md)
 [![Maelstrom](/Event/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
 [![Maraud](/Event/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
-[![Masquerade Ball](/Event/Images/Masquerade_Ball_v0.4.0.png)](/Event/MasqueradeBall.md)
+[![Masquerade Ball](/Event/Images/Masquerade_Ball_v0.5.0.png)](/Event/MasqueradeBall.md)
 [![Meld](/Event/Images/Meld_v0.2.0.png)](/Event/Meld.md)
 [![Navigate](/Event/Images/Navigate_v0.1.0.png)](/Event/Navigate.md)
 [![Parade](/Event/Images/Parade_v0.1.0.png)](/Event/Parade.md)
