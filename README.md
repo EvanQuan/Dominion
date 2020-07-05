@@ -255,7 +255,7 @@
 [![Search Party](/Event/Images/Search_Party_v0.2.0.png)](/Event/SearchParty.md)
 [![Shady Deal](/Event/Images/Shady_Deal_v0.2.0.png)](/Event/ShadyDeal.md)
 [![Shopping Spree](/Event/Images/Shopping_Spree_v0.1.0.png)](/Event/ShoppingSpree.md)
-[![Siege](/Event/Images/Siege_v0.2.0.png)](/Event/Siege.md)
+[![Siege](/Event/Images/Siege_v0.3.0.png)](/Event/Siege.md)
 [![Smuggling Ring](/Event/Images/Smuggling_Ring_v0.1.0.png)](/Event/SmugglingRing.md)
 [![Stiff Loan](/Event/Images/Stiff_Loan_v0.2.0.png)](/Event/StiffLoan.md)
 [![Street Bargain](/Event/Images/Street_Bargain_v0.1.0.png)](/Event/StreetBargain.md)
