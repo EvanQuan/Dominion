@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (195)
+## Landscapes (196)
 
 <details>
 <summary>Artifact (8)</summary>
@@ -190,7 +190,7 @@
 
 </details>
 <details>
-<summary>Event (79)</summary>
+<summary>Event (80)</summary>
 
 [![Ambush](/Event/Images/Ambush_v0.3.1.png)](/Event/Ambush.md)
 [![Auction](/Event/Images/Auction_v0.2.1.png)](/Event/Auction.md)
@@ -246,6 +246,7 @@
 [![Reduce to Ashes](/Event/Images/Reduce_to_Ashes_v0.1.0.png)](/Event/ReduceToAshes.md)
 [![Refuge](/Event/Images/Refuge_v0.1.0.png)](/Event/Refuge.md)
 [![Repent](/Event/Images/Repent_v0.1.0.png)](/Event/Repent.md)
+[![Rescue Prisoners](/Event/Images/Rescue_Prisoners_v0.1.0.png)](/Event/RescuePrisoners.md)
 [![Reserve](/Event/Images/Reserve_v0.1.0.png)](/Event/Reserve.md)
 [![Return Home](/Event/Images/Return_Home_v0.1.0.png)](/Event/ReturnHome.md)
 [![Revise](/Event/Images/Revise_v0.1.0.png)](/Event/Revise.md)
