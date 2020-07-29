@@ -229,7 +229,7 @@
 [![Joust](/Event/Images/Joust_v0.4.0.png)](/Event/Joust.md)
 [![Lone Knight](/Event/Images/Lone_Knight_v0.2.0.png)](/Event/LoneKnight.md)
 [![Lone Rider](/Event/Images/Lone_Rider_v0.1.0.png)](/Event/LoneRider.md)
-[![Lost Gold](/Event/Images/Lost_Gold_v0.1.0.png)](/Event/LostGold.md)
+[![Lost Gold](/Event/Images/Lost_Gold_v0.2.0.png)](/Event/LostGold.md)
 [![Maelstrom](/Event/Images/Maelstrom_v0.3.0.png)](/Event/Maelstrom.md)
 [![Maraud](/Event/Images/Maurad_v0.1.0.png)](/Event/Maraud.md)
 [![Masquerade Ball](/Event/Images/Masquerade_Ball_v0.4.0.png)](/Event/MasqueradeBall.md)
