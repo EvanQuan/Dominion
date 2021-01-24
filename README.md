@@ -50,7 +50,7 @@
 <details>
 <summary>Action - Duration - Victory (1)</summary>
 
-[![Rice Field](/Action-Duration-Victory/Images/Rice_Field_v0.1.png)](/Action-Duration-Victory/RiceField.md)
+[![Rice Paddy](/Action-Duration-Victory/Images/Rice_Paddy_v0.3.0.png)](/Action-Duration-Victory/RicePaddy.md)
 
 </details>
 
