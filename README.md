@@ -177,6 +177,13 @@
 ## Landscapes (196)
 
 <details>
+<summary>Ally (2)</summary>
+
+[![Dark Ritualists](/Ally/Images/Dark_Ritualists_v0.1.0.png)](/Ally/DarkRitualists.md)
+[![Raiding Party](/Ally/Images/Raiding_Party_v0.1.0.png)](/Ally/Raiding_Party.md)
+
+</details>
+<details>
 <summary>Artifact (8)</summary>
 
 [![Anvil](/Artifact/Images/Anvil_v0.2.0.png)](/Artifact/Anvil.md)
