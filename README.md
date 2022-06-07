@@ -174,11 +174,12 @@
 
 </details>
 
-## Landscapes (196)
+## Landscapes (199)
 
 <details>
-<summary>Ally (2)</summary>
+<summary>Ally (3)</summary>
 
+[![Council of Druids](/Ally/Images/Council_of_Druids_v0.1.0.png)](/Ally/CouncilOfDruids.md)
 [![Dark Ritualists](/Ally/Images/Dark_Ritualists_v0.1.0.png)](/Ally/DarkRitualists.md)
 [![Raiding Party](/Ally/Images/Raiding_Party_v0.1.0.png)](/Ally/Raiding_Party.md)
 
