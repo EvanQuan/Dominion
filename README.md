@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (200)
+## Landscapes (201)
 
 <details>
 <summary>Ally (4)</summary>
@@ -388,6 +388,14 @@
 [![Swamp Hag](/Threat/Images/Swamp_Hag_v0.1.0.png)](/Threat/SwampHag.md)
 
 </details>
+
+<details>
+<summary>Trait (1)</summary>
+
+[![Grand](/Trait/Images/Grand_v0.1.0.png)](/Trait/Grand.md)
+
+</details>
+
 <details>
 <summary>Way (6)</summary>
 
