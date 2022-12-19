@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (201)
+## Landscapes (202)
 
 <details>
 <summary>Ally (4)</summary>
@@ -390,8 +390,9 @@
 </details>
 
 <details>
-<summary>Trait (1)</summary>
+<summary>Trait (2)</summary>
 
+[![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
 [![Grand](/Trait/Images/Grand_v0.1.0.png)](/Trait/Grand.md)
 
 </details>
