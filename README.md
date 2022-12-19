@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (202)
+## Landscapes (203)
 
 <details>
 <summary>Ally (4)</summary>
@@ -185,6 +185,7 @@
 [![Raiding Party](/Ally/Images/Raiding_Party_v0.1.0.png)](/Ally/Raiding_Party.md)
 
 </details>
+
 <details>
 <summary>Artifact (8)</summary>
 
@@ -198,6 +199,7 @@
 [![Sextant](/Artifact/Images/Sextant_v0.1.0.png)](/Artifact/Sextant.md)
 
 </details>
+
 <details>
 <summary>Event (80)</summary>
 
@@ -390,10 +392,11 @@
 </details>
 
 <details>
-<summary>Trait (2)</summary>
+<summary>Trait (3)</summary>
 
 [![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
 [![Grand](/Trait/Images/Grand_v0.1.0.png)](/Trait/Grand.md)
+[![Pillaging](/Trait/Images/Pillaging_v0.1.0.png)](/Trait/Pillaging.md)
 
 </details>
 
