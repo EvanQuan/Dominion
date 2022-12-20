@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (205)
+## Landscapes (206)
 
 <details>
 <summary>Ally (4)</summary>
@@ -392,9 +392,10 @@
 </details>
 
 <details>
-<summary>Trait (5)</summary>
+<summary>Trait (6)</summary>
 
 [![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
+[![Galloping](/Trait/Images/Galloping_v0.1.0.png)](/Trait/Galloping.md)
 [![Grand](/Trait/Images/Grand_v0.1.0.png)](/Trait/Grand.md)
 [![Haunted](/Trait/Images/Haunted_v0.2.0.png)](/Trait/Haunted.md)
 [![Pillaging](/Trait/Images/Pillaging_v0.1.0.png)](/Trait/Pillaging.md)
