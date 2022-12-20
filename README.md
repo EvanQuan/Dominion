@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (210)
+## Landscapes (211)
 
 <details>
 <summary>Ally (4)</summary>
@@ -392,7 +392,7 @@
 </details>
 
 <details>
-<summary>Trait (10)</summary>
+<summary>Trait (11)</summary>
 
 [![Bountiful](/Trait/Images/Bountiful_v0.1.0.png)](/Trait/Bountiful.md)
 [![Distant](/Trait/Images/Distant_v0.1.0.png)](/Trait/Distant.md)
@@ -404,6 +404,7 @@
 [![Pillaging](/Trait/Images/Pillaging_v0.1.0.png)](/Trait/Pillaging.md)
 [![Quick](/Trait/Images/Quick_v0.1.0.png)](/Trait/Quick.md)
 [![Swashbuckling](/Trait/Images/Swashbuckling_v0.1.0.png)](/Trait/Swashbuckling.md)
+[![Uplifting](/Trait/Images/Uplifting_v0.1.0.png)](/Trait/Uplifting.md)
 
 </details>
 
