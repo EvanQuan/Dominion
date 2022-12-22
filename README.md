@@ -399,7 +399,7 @@
 [![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
 [![Galloping](/Trait/Images/Galloping_v0.1.0.png)](/Trait/Galloping.md)
 [![Gilded](/Trait/Images/Gilded_v0.1.0.png)](/Trait/Gilded.md)
-[![Grand](/Trait/Images/Grand_v0.1.0.png)](/Trait/Grand.md)
+[![Grand](/Trait/Images/Grand_v0.1.1.png)](/Trait/Grand.md)
 [![Haunted](/Trait/Images/Haunted_v0.2.0.png)](/Trait/Haunted.md)
 [![Pillaging](/Trait/Images/Pillaging_v0.1.0.png)](/Trait/Pillaging.md)
 [![Quick](/Trait/Images/Quick_v0.1.0.png)](/Trait/Quick.md)
