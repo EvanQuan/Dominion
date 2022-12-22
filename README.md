@@ -175,7 +175,7 @@
 
 </details>
 
-## Landscapes (215)
+## Landscapes (216)
 
 <details>
 <summary>Ally (4)</summary>
@@ -393,7 +393,7 @@
 </details>
 
 <details>
-<summary>Trait (15)</summary>
+<summary>Trait (16)</summary>
 
 [![Bartered](/Trait/Images/Bartered_v0.1.0.png)](/Trait/Bartered.md)
 [![Borrowed](/Trait/Images/Borrowed_v0.2.0.png)](/Trait/Borrowed.md)
@@ -410,6 +410,7 @@
 [![Smuggled](/Trait/Images/Smuggled_v0.1.0.png)](/Trait/Smuggled.md)
 [![Swashbuckling](/Trait/Images/Swashbuckling_v0.1.0.png)](/Trait/Swashbuckling.md)
 [![Uplifting](/Trait/Images/Uplifting_v0.1.0.png)](/Trait/Uplifting.md)
+[![Wandering](/Trait/Images/Wandering_v0.1.0.png)](/Trait/Wandering.md)
 
 </details>
 
