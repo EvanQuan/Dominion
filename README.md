@@ -174,7 +174,7 @@
 
 </details>
 
-## Landscapes (212)
+## Landscapes (213)
 
 <details>
 <summary>Ally (4)</summary>
@@ -392,8 +392,9 @@
 </details>
 
 <details>
-<summary>Trait (12)</summary>
+<summary>Trait (13)</summary>
 
+[![Borrowed](/Trait/Images/Borrowed_v0.2.0.png)](/Trait/Borrowed.md)
 [![Bountiful](/Trait/Images/Bountiful_v0.1.1.png)](/Trait/Bountiful.md)
 [![Distant](/Trait/Images/Distant_v0.1.0.png)](/Trait/Distant.md)
 [![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
