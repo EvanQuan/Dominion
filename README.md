@@ -146,7 +146,8 @@
 
 [![Adventurer](/Revisions/Images/Adventurer_v0.1.0.png)](/Revisions/Adventurer.md)
 [![Beggar](/Revisions/Images/Beggar_v0.1.0.png)](/Revisions/Beggar.md)
-[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md) [![Chancellor](/Revisions/Images/Chancellor_v0.1.0.png)](/Revisions/Chancellor.md)
+[![Bureaucrat](/Revisions/Images/Bureaucrat_v0.1.0.png)](/Revisions/Bureaucrat.md)
+[![Chancellor](/Revisions/Images/Chancellor_v0.1.0.png)](/Revisions/Chancellor.md)
 [![Coppersmith](/Revisions/Images/Coppersmith_v0.1.0.png)](/Revisions/Coppersmith.md)
 [![Death Cart](/Revisions/Images/Death_Cart_v0.1.0.png)](/Revisions/DeathCart.md)
 [![Feast](/Revisions/Images/Feast_v0.1.0.png)](/Revisions/Feast.md)
@@ -174,7 +175,7 @@
 
 </details>
 
-## Landscapes (214)
+## Landscapes (215)
 
 <details>
 <summary>Ally (4)</summary>
@@ -392,8 +393,9 @@
 </details>
 
 <details>
-<summary>Trait (14)</summary>
+<summary>Trait (15)</summary>
 
+[![Bartered](/Trait/Images/Bartered_v0.1.0.png)](/Trait/Bartered.md)
 [![Borrowed](/Trait/Images/Borrowed_v0.2.0.png)](/Trait/Borrowed.md)
 [![Bountiful](/Trait/Images/Bountiful_v0.1.1.png)](/Trait/Bountiful.md)
 [![Distant](/Trait/Images/Distant_v0.1.0.png)](/Trait/Distant.md)
