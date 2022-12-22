@@ -394,7 +394,7 @@
 <details>
 <summary>Trait (11)</summary>
 
-[![Bountiful](/Trait/Images/Bountiful_v0.1.0.png)](/Trait/Bountiful.md)
+[![Bountiful](/Trait/Images/Bountiful_v0.1.1.png)](/Trait/Bountiful.md)
 [![Distant](/Trait/Images/Distant_v0.1.0.png)](/Trait/Distant.md)
 [![Druidic](/Trait/Images/Druidic_v0.1.0.png)](/Trait/Druidic.md)
 [![Galloping](/Trait/Images/Galloping_v0.1.0.png)](/Trait/Galloping.md)
